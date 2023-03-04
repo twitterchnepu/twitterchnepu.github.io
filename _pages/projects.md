@@ -1,58 +1,45 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+permalink: /Research/
+title: Research
+description: 
 nav: true
-nav_order: 2
-display_categories: [work, fun]
-horizontal: false
+nav_order: 5
 ---
 
-<!-- pages/projects.md -->
-<div class="projects">
-{%- if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {%- for category in page.display_categories %}
-  <h2 class="category">{{ category }}</h2>
-  {%- assign categorized_projects = site.projects | where: "category", category -%}
-  {%- assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
-    </div>
-  </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-  {% endfor %}
-
-{%- else -%}
-<!-- Display projects without categories -->
-  {%- assign sorted_projects = site.projects | sort: "importance" -%}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
-    </div>
-  </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-{%- endif -%}
-</div>
+<p><strong>Chinese University of Hong Kong</strong></p>
+<ul>
+    <li>
+        <p>Empirical Methods in Asset Pricing (PhD level), 2022 - Present</p>
+    </li>
+    <li>
+        <p>Financial Markets (Undergraduate level), 2021 - Present</p>
+        <ul>
+            <li>
+                <p>2021/22 evaluations: 5.375 (F section), 4.857 (G section), 5.833 (H section) / &nbsp;Department Undergraduate Avg. 5.103</p>
+            </li>
+        </ul>
+    </li>
+    <li>
+        <p>Student Supervision</p>
+        <ul>
+            <li>
+                <p>Singsen Lam (PhD co-supervisor, 2024 expected)</p>
+            </li>
+        </ul>
+    </li>
+</ul>
+<p><strong>University of Toronto, Rotman School of Management</strong></p>
+<ul>
+    <li>
+        <p>Capital Market Theory (Undergraduate level), 2019</p>
+        <ul>
+            <li>
+                <p>Evaluations: 4.7 and 4.9 out of 5</p>
+            </li>
+            <li>
+                <p>Rotman School of Management Teaching Excellence Award</p>
+            </li>
+        </ul>
+    </li>
+</ul>
