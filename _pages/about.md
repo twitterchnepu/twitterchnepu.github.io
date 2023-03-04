@@ -1,6 +1,6 @@
 ---
-layout: about
-title: about
+layout: About
+title: About
 permalink: /
 subtitle: Assistant Professor at The Chinese University of Hong Kong Business School
 
