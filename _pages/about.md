@@ -8,8 +8,11 @@ profile:
   align: left
   image: prof_pic2.jpg
   image_circular: false # crops the image to make it circular
-  address: 
-
+  address: >
+    <p>Room 1252, CYT</p>
+    <p>12 Chak Cheung Street, Shatin</p>
+    <p>N.T. Hong Kong SAR</p>
+    
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
