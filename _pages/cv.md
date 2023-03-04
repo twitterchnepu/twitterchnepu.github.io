@@ -14,7 +14,7 @@ nav_order: 3
 <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="background-color:white"><span style="font-family:Roboto"><span style="color:black">Chinese University of Hong Kong Business School, Hong Kong</span></span></span></span></strong></span></span></p>
 
 <ul>
-	<li><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="background-color:white"><span style="font-family:Roboto"><span style="color:black">Assistant Professor of Finance</span></span></span></span>, 2021 &ndash; Present</span></span></li>
+	<li><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="background-color:white"><span style="font-family:Roboto"><span style="color:black">Assistant Professor of Finance, 2021 - Present</span></span></span></span></span></span></li>
 </ul>
 
 <p>&nbsp;</p>
@@ -38,3 +38,6 @@ nav_order: 3
 <ul>
 	<li><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="background-color:white"><span style="font-family:Roboto"><span style="color:black">B.B.A. and B.E., Summa Cum Laude (1st out of 230), 2013</span></span></span></span></span></span></li>
 </ul>
+
+<p>&nbsp;</p>
+
