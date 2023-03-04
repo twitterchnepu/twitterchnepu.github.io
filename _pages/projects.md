@@ -4,7 +4,7 @@ permalink: /Research/
 title: Research
 description: 
 nav: true
-nav_order: 5
+nav_order: 3
 ---
 
 <p><strong>Chinese University of Hong Kong</strong></p>
