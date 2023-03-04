@@ -5,7 +5,6 @@ title: CV
 nav: true
 nav_order: 3
 ---
-<p>&nbsp;</p>
 
 <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:Roboto"><span style="color:navy"><a href="https://www.dropbox.com/s/77gesw9zy9kh2kp/CV_chanikjo.pdf?dl=0" style="color:blue; text-decoration:underline"><span style="color:navy">PDF File</span></a></span></span></span></span></p>
 
