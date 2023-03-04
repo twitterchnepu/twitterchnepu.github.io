@@ -6,7 +6,7 @@ subtitle: Assistant Professor at The Chinese University of Hong Kong Business Sc
 
 profile:
   align: left
-  image: prof_pic.jpg
+  image: prof_pic2.jpg
   image_circular: false # crops the image to make it circular
   address: 
 
