@@ -16,7 +16,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-Email: chanikjo@cuhk.edu.hk
+Email: <a href = "mailto:chanikjo@cuhk.edu.hk">chanikjo@cuhk.edu.hk</a> 
 
 Research interest: Household Finance, Asset Pricing, Climate Finance
 
