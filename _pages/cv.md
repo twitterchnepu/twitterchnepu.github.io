@@ -5,7 +5,7 @@ title: CV
 nav: true
 nav_order: 3
 ---
-
+<a href = "https://www.dropbox.com/s/77gesw9zy9kh2kp/CV_chanikjo.pdf?dl=0">PDF File</a> 
 
 <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:14.0pt"><span style="font-family:Roboto">Employment</span></span></strong></span></span></p>
 
