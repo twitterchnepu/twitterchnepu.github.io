@@ -40,7 +40,7 @@ nav_order: 1
 <p style="margin-left:48px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">Presentation: &nbsp;University of Toronto (2020), Eastern FA (2021)</span></span></span></span></span></p>
 
 <details>
- <summary> <span style="font-size:11pt">[+] Abstract </span> </summary>
+	<summary> <p style="margin-left:48px"><span style="font-size:11pt">Abstract </span></p> </summary>
 <p style="margin-left:48px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">We develop 50 novel indices of State-level Economic Policy Uncertainty (SEPU) based on newspaper coverage frequency using 204 million state newspaper articles from January 1990 to December 2019. We assess the validity of our measures. Our SEPU indices vary counter-cyclically with respect to state-specific economic conditions, rise before close gubernatorial elections, and exhibit a large cross-sectional variation. We demonstrate that SEPU indices explain the cross-sectional variation in state-level GDP, employment, income as well as industry investment decisions. Our findings highlight the importance of economic policy uncertainty at the state level in addition to the nationwide level.</span></span></span></span></span></p>
 </details>
 
@@ -56,7 +56,7 @@ nav_order: 1
 <p style="margin-left:48px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">Media coverage:&nbsp;<a href = "https://www.morningstar.com/news/marketwatch/20220730279/most-investors-still-dont-understand-the-relationship-between-risk-and-return-study-reveals">Morningstar</a></span></span></span></span></span></p>
 
 <details>
- <summary> <span style="font-size:11pt">[+] Abstract </span> </summary>
+ <summary> <span style="font-size:11pt">Abstract </span> </summary>
 <p style="margin-left:48px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">We conduct a novel survey of nationally representative 2,548 U.S. respondents to estimate subjective risk-return trade-offs among savings, government bonds, stocks, real estate, gold, and cryptocurrencies. We document a robust negative relationship between perceived risk and return among risky assets. The ``higher risk, lower return&#39;&#39; relationship remains significant even for wealthy, highly educated, and financially-literate individuals. We find that the negative risk-return trade-offs translate into under-diversified portfolios as investors disproportionately allocate wealth to assets with a higher subjective Sharpe ratio.</span></span></span></span></span></p>
 </details>
 
@@ -69,7 +69,7 @@ nav_order: 1
 <p style="margin-left:48px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">Presentation: &nbsp;SIPP Virtual Conference (2023),&nbsp;EFA (2020), NFA (2020), MFA (2020), SFA (2020), SWFA (2020), University of Toronto (2020), CUHK (2020)</span></span></span></span></span></p>
 
 <details>
- <summary> <span style="font-size:11pt">[+] Abstract </span> </summary>
+ <summary> <span style="font-size:11pt">Abstract </span> </summary>
 <p style="margin-left:48px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">Exploiting the staggered adoptions of US state-level employment protection laws, we provide novel empirical evidence that adoptions of laws increase the level of stock market participation both on the extensive margin and on the intensive margin. These effects are stronger for young, low-income, low-wealth, and less-educated households. We observe the opposite behaviors when the law is reversed. Overall, our findings imply the significance of employment protection laws in inducing households to take more financial risks, thereby improving wealth accumulation. This is a new channel through which employment protection laws benefit households and the economy.</span></span></span></span></span></p>
 </details> 
 
@@ -82,7 +82,7 @@ nav_order: 1
 <p style="margin-left:48px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">Presentation: SIPP Virtual Conference (2023), AFBC (2022), KAFA (2022),&nbsp;CUHK (2022), NTHU Symposium on Sustainable Finance and Economics (2022)</span></span></span></span></span></p>
 
 <details>
- <summary> <span style="font-size:11pt">[+] Abstract </span> </summary>
+ <summary> <span style="font-size:11pt">Abstract </span> </summary>
 <p style="margin-left:48px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">This paper studies a novel channel through which climate risks affect households&rsquo; choices of risky asset allocation: a stringent climate change regulation elevates labor income risk for households employed by high-emission industries which in turn discourages households&#39; financial risk-taking. Using staggered adoptions of climate change action plans across states, we find that climate change action plans lead to a reduction in the share of risky assets by 15% for households in high-emission industries. We also find a reduction in risky asset holdings after the stringent EPA regulation. These results are stronger with experiences of climate change-related disasters. Our study implies an unintended consequence of climate regulations for wealth inequality by discouraging low-wealth households&#39; financial risk-taking.</span></span></span></span></span></p>
 </details> 
 
@@ -96,7 +96,7 @@ nav_order: 1
 
 
 <details>
- <summary> <span style="font-size:11pt">[+] Abstract </span> </summary>
+ <summary> <span style="font-size:11pt">Abstract </span> </summary>
 <p style="margin-left:48px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">We develop a dynamic equilibrium model where heterogeneous investors endogenously choose to enter/exit the stock market. We characterize the equilibrium and present a conditional consumption&nbsp;CAPM. The model implies small changes in the composition of stockholders, which generate a strongly countercyclical stockholders&rsquo; amount of consumption risk. The model provides a new perspective on the main drivers of asset dynamics. It is the procyclical consumption risk-sharing implied by changes in stockholders&#39; composition that contribute to the dynamics of risk premium, excess volatility, and price-dividend ratio. We provide empirical evidence on market participation, amount of risk, and price of risk, supporting our theory. </span></span></span></span></span></p>
 </details>
 
