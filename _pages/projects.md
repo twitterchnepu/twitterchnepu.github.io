@@ -88,7 +88,7 @@ nav_order: 1
 <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:14.0pt"><span style="font-family:Roboto"><span style="color:black">Other Publications</span></span></span></strong></span></span></p>
 
 <ul>
-	<li><span style="font-size:11pt"><span style="color:black"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><a href = "https://www.sciencedirect.com/science/article/pii/S0927538X20304510">Chinese Economic Policy Uncertainty and U.S. Households&#39; Portfolio Decisions</a> with Kiryoung Lee&nbsp;and&nbsp;Yoontae Jeon, <strong>Pacific-Basin Finance Journal</strong>, Volume 64, 2020&nbsp;[Economic uncertainty, household finance, stock market participation, and Chinese economy]</span></span></span></span></span></li>
+	<li><span style="font-size:11pt"><span style="color:black"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><a href = "https://www.sciencedirect.com/science/article/pii/S0927538X20304510">Chinese Economic Policy Uncertainty and U.S. Households&#39; Portfolio Decisions</a> with Kiryoung Lee&nbsp;and&nbsp;Yoontae Jeon, <strong><a href = "https://www.sciencedirect.com/journal/pacific-basin-finance-journal">Pacific-Basin Finance Journal</a></strong>, Volume 64, 2020&nbsp;[Economic uncertainty, household finance, stock market participation, and Chinese economy]</span></span></span></span></span></li>
 </ul>
 
 <p>&nbsp;</p>
