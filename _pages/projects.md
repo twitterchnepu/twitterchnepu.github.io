@@ -7,7 +7,7 @@ nav: true
 nav_order: 1
 ---
 
-<p><a href="https://www.sciencedirect.com/science/article/abs/pii/S1544612323000016" target="_blank">Lee, Choi, and Kim, &quot;Twitter-Based Chinese Economic Policy Uncertainty&quot;, 2022,&nbsp; Finance Research Letters, 2023</span></a>
+<p><a href="https://www.sciencedirect.com/science/article/abs/pii/S1544612323000016" target="_blank">Lee, Choi, and Kim, &quot;Twitter-Based Chinese Economic Policy Uncertainty&quot;, 2022,&nbsp; Finance Research Letters, 2023</a>
 
 <p style="text-align:justify">Given the strict censorship in China, would tweets about Chinese economic policy uncertainty by global Twitter users contain valuable information above and beyond existing indices? We construct novel daily and monthly frequency ``censorship-free&quot; indices of Twitter-based Chinese economic policy uncertainty from 2010 onward. Our uncertainty index significantly spikes during major economic policy events. Shocks to our index are significantly associated with future Chinese stock market returns as well as investment, consumption, unemployment, and production while existing Chinese economic policy uncertainty indices are not significantly related to economic outputs.</p>
 
