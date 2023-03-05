@@ -27,7 +27,7 @@ nav_order: 2
 
 <ul style="list-style-type:square">
 	<li><span style="font-size:12pt"><span style="font-size:11.0pt"><span style="color:#212121">Chungbuk National University, 1, Chungdae-ro, Seowon-gu, Cheongju-si, Chungcheongbuk-do, Republic of Korea</span></span></span></span></li>
-	<li><span style="font-size:12pt"><span style="font-size:11.0pt"><span style="color:#212121">Contact:</span></span><u><a href="mailto:skswod95@chungbuk.ac.kr" style="box-sizing:border-box; color:inherit; pointer-events:all; text-decoration:underline" target="_blank"><span style="color:inherit">skswod95@chungbuk.ac.kr</span></a></u> </span></span></li>
+	<li><span style="font-size:12pt"><span style="font-size:11.0pt"><span style="color:#212121">Contact: </span></span><u><a href="mailto:skswod95@chungbuk.ac.kr" style="box-sizing:border-box; color:inherit; pointer-events:all; text-decoration:underline" target="_blank"><span style="color:inherit">skswod95@chungbuk.ac.kr</span></a></u> </span></span></li>
 </ul>
 
 <p style="text-align:start"><span style="font-size:12pt"><strong><span style="font-size:11.0pt"><span style="color:#212121">Juik </span></span>Cho</strong></span></span></p>
