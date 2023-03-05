@@ -1,12 +1,10 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
+permalink: /Research/
+title: Research
 description: 
 nav: true
 nav_order: 1
-display_categories: [work, fun]
-horizontal: false
 ---
 
 <p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-size:11.0pt"><span style="font-family:&quot;Open Sans&quot;,sans-serif"><span style="color:#212121"><a href="https://www.sciencedirect.com/science/article/abs/pii/S1544612323000016" target="_blank"><span style="font-family:Roboto"><span style="color:blue"><span style="color:inherit">Lee, Choi, and Kim, &quot;Twitter-Based Chinese Economic Policy Uncertainty&quot;, 2022,&nbsp; Finance Research Letters, 2023</span></span></span></a></span></span></span></span></span></p>
