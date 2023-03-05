@@ -15,17 +15,38 @@ nav_order: 1
 
 <p style="margin-left:40px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:#000080">Journal of Financial Economics</span></span></span></strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">, accepted&nbsp;[Empirical asset pricing,&nbsp;asset holders&#39;&nbsp;consumption]</span></span></span></span></span></p>
 
+
+<details>
+	<summary><span style="font-size:11pt">Abstract </span></summary>
+<p style="margin-left:40px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">We test the conditional consumption-CAPM using asset holders' consumption and find that the time variation in the prices of asset holders' consumption risk is procyclical. This puzzling time variation is at odds with the implication of existing consumption-based equilibrium asset pricing models. We show that our finding is a salient feature of the data observed in multiple asset classes (aggregate equity market, equity portfolios, bond portfolios, and commodities portfolios), using different measures of consumption (household survey data and high-frequency retail shopping data) and alternative empirical methodologies.</span></span></span></span></span></p>
+</details>
+
+
 <ul>
 	<li><span style="font-size:11pt"><span style="color:black"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3669068">A One-Factor Model of Corporate Bond Premia</a> with&nbsp;Redouane Elkamhi and&nbsp;Yoshio Nozawa</span></span></span></span></span></li>
 </ul>
 
 <p style="margin-left:40px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:#000080">Management Science</span></span></span></strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">, conditionally accepted&nbsp;[Empirical asset pricing, long-run risk, wealthy households&#39; consumption]</span></span></span></span></span></p>
 
+
+<details>
+	<summary><span style="font-size:11pt">Abstract </span></summary>
+<p style="margin-left:40px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">A one-factor model based on long-run consumption growth explains the risk premiums on corporate bond portfolios sorted on credit rating, credit spreads, downside risk, idiosyncratic volatility, long-term reversals, maturity, and sensitivity to the financial intermediary capital factor. The estimated risk-aversion coefficient is lower when we use the consumption growth of wealthy households over a longer horizon as a risk factor, and a model with a 20-quarter horizon yields a risk-aversion coefficient of 15, a value similar to the one estimated from equity portfolios.</span></span></span></span></span></p>
+</details>
+
+
+
 <ul>
 	<li><span style="font-size:11pt"><span style="color:black"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><a href = "https://academic.oup.com/rcfs/advance-article-abstract/doi/10.1093/rcfs/cfac019/6576649?redirectedFrom=fulltext">Agency Conflicts and Investment: Evidence from a Structural Estimation</a> with&nbsp;Redouane Elkamhi,&nbsp;Daniel Kim, and&nbsp;Marco Salerno</span></span></span></span></span></li>
 </ul>
 
 <p style="margin-left:40px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:#000080">Review of Corporate Finance Studies</span></span></span></strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">,&nbsp;accepted,&nbsp;<a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680008">SSRN version</a>, [dynamic capital structure model]</span></span></span></span></span></p>
+
+
+<details>
+	<summary><span style="font-size:11pt">Abstract </span></summary>
+<p style="margin-left:40px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">We develop a dynamic capital structure model to study how agency conflicts between managers and shareholders affect the joint determination of financing and investment decisions. We show that there are two agency conflicts with opposing effects on a manager’s choice of investment: first, the consumption of private benefits channel leads managers not only to choose a lower optimal leverage, but also to underinvest, and second, compensation linked to firm size may lead managers to overinvest. We fit the model to the data and show that the average firm slightly overinvests, younger CEOs invest more than older ones, while CEOs with longer tenure overinvest more than CEOs with shorter tenure.</span></span></span></span></span></p>
+</details>
 
 <p>&nbsp;</p>
 
