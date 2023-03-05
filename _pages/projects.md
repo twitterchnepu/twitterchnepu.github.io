@@ -82,7 +82,7 @@ nav_order: 1
 <p style="margin-left:48px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">Presentation: SIPP Virtual Conference (2023), AFBC (2022), KAFA (2022),&nbsp;CUHK (2022), NTHU Symposium on Sustainable Finance and Economics (2022)</span></span></span></span></span></p>
 
 <details>
-	<summary> <p style="margin-left:48px"> <span style="font-size:11pt">Abstract </span> </p></summary>
+	<summary> <span style="font-size:11pt">Abstract </span></summary>
 <p style="margin-left:48px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">This paper studies a novel channel through which climate risks affect households&rsquo; choices of risky asset allocation: a stringent climate change regulation elevates labor income risk for households employed by high-emission industries which in turn discourages households&#39; financial risk-taking. Using staggered adoptions of climate change action plans across states, we find that climate change action plans lead to a reduction in the share of risky assets by 15% for households in high-emission industries. We also find a reduction in risky asset holdings after the stringent EPA regulation. These results are stronger with experiences of climate change-related disasters. Our study implies an unintended consequence of climate regulations for wealth inequality by discouraging low-wealth households&#39; financial risk-taking.</span></span></span></span></span></p>
 </details> 
 
