@@ -32,7 +32,7 @@ nav_order: 1
 <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:14.0pt"><span style="font-family:Roboto"><span style="color:black">Working Papers</span></span></span></strong></span></span></p>
 
 <ul>
-	<li><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3695365">Measuring &quot;State-level&quot; Economic Policy Uncertainty</a> with&nbsp;Redouane Elkamhi and&nbsp;Marco Salerno</span></span></span></span></span></li>
+	<li><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3695365">Measuring &quot;State-level&quot; Economic Policy Uncertainty</a> with&nbsp;Redouane Elkamhi and&nbsp;Marco Salerno, [Economic uncertainty and applications to corporate finance&nbsp;&amp;&nbsp;asset pricing]</span></span></span></span></span></li>
 </ul>
 
 <p style="margin-left:48px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">Revise and Resubmit,&nbsp;<strong><a href = "https://jfqa.org/">Journal of Financial and Quantitative Analysis</a></strong>, 2nd round</span></span></span></span></span></p>
@@ -41,21 +41,24 @@ nav_order: 1
 
 <details>
  <summary> <span style="font-size:11pt">[+] Abstract </span> </summary>
-<p style="margin-left:48px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">We develop 50 novel indices of State-level Economic Policy Uncertainty (SEPU) based on newspaper coverage frequency using 204 million state newspaper articles from January 1990 to December 2019. We assess the validity of our measures. Our SEPU indices vary counter-cyclically with respect to state-specific economic conditions, rise before close gubernatorial elections, and exhibit a large cross-sectional variation. We demonstrate that SEPU indices explain the cross-sectional variation in state-level GDP, employment, income as well as industry investment decisions. Our findings highlight the importance of economic policy uncertainty at the state level in addition to the nationwide level. [Economic uncertainty and applications to corporate finance&nbsp;&amp;&nbsp;asset pricing]</span></span></span></span></span></p>
+<p style="margin-left:48px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">We develop 50 novel indices of State-level Economic Policy Uncertainty (SEPU) based on newspaper coverage frequency using 204 million state newspaper articles from January 1990 to December 2019. We assess the validity of our measures. Our SEPU indices vary counter-cyclically with respect to state-specific economic conditions, rise before close gubernatorial elections, and exhibit a large cross-sectional variation. We demonstrate that SEPU indices explain the cross-sectional variation in state-level GDP, employment, income as well as industry investment decisions. Our findings highlight the importance of economic policy uncertainty at the state level in addition to the nationwide level.</span></span></span></span></span></p>
 </details>
 
 
 <p style="margin-left:48px">&nbsp;</p>
 
 <ul>
-	<li><span style="font-size:11pt"><span style="color:black"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4096443">Subjective Risk-Return Trade-off</a> with&nbsp;Chen Lin and&nbsp;Yang You</span></span></span></span></span></li>
+	<li><span style="font-size:11pt"><span style="color:black"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4096443">Subjective Risk-Return Trade-off</a> with&nbsp;Chen Lin and&nbsp;Yang You [Household finance, subjective expectation, and &nbsp;asset pricing]</span></span></span></span></span></li>
 </ul>
 
 <p style="margin-left:48px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">Presentation:&nbsp;Colorado Finance Summit&nbsp;(2022),&nbsp;NUS Risk Management conference (2022), CUHK (2022), Hong Kong Joint Finance Research Workshop (2022)</span></span></span></span></span></p>
 
 <p style="margin-left:48px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">Media coverage:&nbsp;<a href = "https://www.morningstar.com/news/marketwatch/20220730279/most-investors-still-dont-understand-the-relationship-between-risk-and-return-study-reveals">Morningstar</a></span></span></span></span></span></p>
 
-<p style="margin-left:48px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">We conduct a novel survey of nationally representative 2,548 U.S. respondents to estimate subjective risk-return trade-offs among savings, government bonds, stocks, real estate, gold, and cryptocurrencies. We document a robust negative relationship between perceived risk and return among risky assets. The ``higher risk, lower return&#39;&#39; relationship remains significant even for wealthy, highly educated, and financially-literate individuals. We find that the negative risk-return trade-offs translate into under-diversified portfolios as investors disproportionately allocate wealth to assets with a higher subjective Sharpe ratio.&nbsp;[Household finance, subjective expectation, and &nbsp;asset pricing]</span></span></span></span></span></p>
+<details>
+ <summary> <span style="font-size:11pt">[+] Abstract </span> </summary>
+<p style="margin-left:48px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">We conduct a novel survey of nationally representative 2,548 U.S. respondents to estimate subjective risk-return trade-offs among savings, government bonds, stocks, real estate, gold, and cryptocurrencies. We document a robust negative relationship between perceived risk and return among risky assets. The ``higher risk, lower return&#39;&#39; relationship remains significant even for wealthy, highly educated, and financially-literate individuals. We find that the negative risk-return trade-offs translate into under-diversified portfolios as investors disproportionately allocate wealth to assets with a higher subjective Sharpe ratio.</span></span></span></span></span></p>
+</details>
 
 <p style="margin-left:48px">&nbsp;</p>
 
