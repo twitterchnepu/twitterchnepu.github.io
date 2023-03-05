@@ -13,19 +13,19 @@ nav_order: 1
 	<li><span style="font-size:11pt"><span style="color:black"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3349844">Asset holders' Consumption Risk and Tests of Conditional CCAPM</a> with&nbsp;Redouane Elkamhi</span></span></span></span></span></li>
 </ul>
 
-<p style="margin-left:40px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black"><a href = "https://www.sciencedirect.com/journal/journal-of-financial-economics">Journal of Financial Economics</a></span></span></span></strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">, accepted&nbsp;[Empirical asset pricing,&nbsp;asset holders&#39;&nbsp;consumption]</span></span></span></span></span></p>
+<p style="margin-left:40px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:#000080">Journal of Financial Economics</span></span></span></strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">, accepted&nbsp;[Empirical asset pricing,&nbsp;asset holders&#39;&nbsp;consumption]</span></span></span></span></span></p>
 
 <ul>
 	<li><span style="font-size:11pt"><span style="color:black"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3669068">A One-Factor Model of Corporate Bond Premia</a> with&nbsp;Redouane Elkamhi and&nbsp;Yoshio Nozawa</span></span></span></span></span></li>
 </ul>
 
-<p style="margin-left:40px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black"><a href = "https://pubsonline.informs.org/journal/mnsc">Management Science</a></span></span></span></strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">, conditionally accepted&nbsp;[Empirical asset pricing, long-run risk, wealthy households&#39; consumption]</span></span></span></span></span></p>
+<p style="margin-left:40px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:#000080">Management Science</span></span></span></strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">, conditionally accepted&nbsp;[Empirical asset pricing, long-run risk, wealthy households&#39; consumption]</span></span></span></span></span></p>
 
 <ul>
 	<li><span style="font-size:11pt"><span style="color:black"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><a href = "https://academic.oup.com/rcfs/advance-article-abstract/doi/10.1093/rcfs/cfac019/6576649?redirectedFrom=fulltext">Agency Conflicts and Investment: Evidence from a Structural Estimation</a> with&nbsp;Redouane Elkamhi,&nbsp;Daniel Kim, and&nbsp;Marco Salerno</span></span></span></span></span></li>
 </ul>
 
-<p style="margin-left:40px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black"><a href = "https://academic.oup.com/rcfs">Review of Corporate Finance Studies</a></span></span></span></strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">,&nbsp;accepted,&nbsp;<a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680008">SSRN version</a>, [dynamic capital structure model]</span></span></span></span></span></p>
+<p style="margin-left:40px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:#000080">Review of Corporate Finance Studies</span></span></span></strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">,&nbsp;accepted,&nbsp;<a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680008">SSRN version</a>, [dynamic capital structure model]</span></span></span></span></span></p>
 
 <p>&nbsp;</p>
 
@@ -35,7 +35,7 @@ nav_order: 1
 	<li><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3695365">Measuring &quot;State-level&quot; Economic Policy Uncertainty</a> with&nbsp;Redouane Elkamhi and&nbsp;Marco Salerno, [Economic uncertainty and applications to corporate finance&nbsp;&amp;&nbsp;asset pricing]</span></span></span></span></span></li>
 </ul>
 
-<p style="margin-left:40px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">Revise and Resubmit,&nbsp;<strong><a href = "https://jfqa.org/">Journal of Financial and Quantitative Analysis</a></strong>, 2nd round</span></span></span></span></span></p>
+<p style="margin-left:40px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:#000080">Revise and Resubmit,&nbsp;<strong>Journal of Financial and Quantitative Analysis</strong>, 2nd round</span></span></span></span></span></p>
 
 <p style="margin-left:40px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">Presentation: &nbsp;University of Toronto (2020), Eastern FA (2021)</span></span></span></span></span></p>
 
