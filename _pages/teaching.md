@@ -4,7 +4,7 @@ permalink: /teaching/
 title: People
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
-nav_order: 1
+nav_order: 2
 ---
 
 <p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong><span style="font-size:11.0pt"><span style="font-family:&quot;Lato&quot;,sans-serif"><span style="color:#212121">Kiryoung Lee</span></span></span></strong></span></span></p>
