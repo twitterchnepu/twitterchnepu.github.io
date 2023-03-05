@@ -13,19 +13,19 @@ nav_order: 1
 	<li><span style="font-size:11pt"><span style="color:black"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3349844">Asset holders' Consumption Risk and Tests of Conditional CCAPM</a> with&nbsp;Redouane Elkamhi</span></span></span></span></span></li>
 </ul>
 
-<p style="margin-left:46px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black"><a href = "https://www.sciencedirect.com/journal/journal-of-financial-economics">Journal of Financial Economics</a></span></span></span></strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">, accepted&nbsp;[Empirical asset pricing,&nbsp;asset holders&#39;&nbsp;consumption]</span></span></span></span></span></p>
+<p style="margin-left:40px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black"><a href = "https://www.sciencedirect.com/journal/journal-of-financial-economics">Journal of Financial Economics</a></span></span></span></strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">, accepted&nbsp;[Empirical asset pricing,&nbsp;asset holders&#39;&nbsp;consumption]</span></span></span></span></span></p>
 
 <ul>
 	<li><span style="font-size:11pt"><span style="color:black"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3669068">A One-Factor Model of Corporate Bond Premia</a> with&nbsp;Redouane Elkamhi and&nbsp;Yoshio Nozawa</span></span></span></span></span></li>
 </ul>
 
-<p style="margin-left:46px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black"><a href = "https://pubsonline.informs.org/journal/mnsc">Management Science</a></span></span></span></strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">, conditionally accepted&nbsp;[Empirical asset pricing, long-run risk, wealthy households&#39; consumption]</span></span></span></span></span></p>
+<p style="margin-left:40px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black"><a href = "https://pubsonline.informs.org/journal/mnsc">Management Science</a></span></span></span></strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">, conditionally accepted&nbsp;[Empirical asset pricing, long-run risk, wealthy households&#39; consumption]</span></span></span></span></span></p>
 
 <ul>
 	<li><span style="font-size:11pt"><span style="color:black"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><a href = "https://academic.oup.com/rcfs/advance-article-abstract/doi/10.1093/rcfs/cfac019/6576649?redirectedFrom=fulltext">Agency Conflicts and Investment: Evidence from a Structural Estimation</a> with&nbsp;Redouane Elkamhi,&nbsp;Daniel Kim, and&nbsp;Marco Salerno</span></span></span></span></span></li>
 </ul>
 
-<p style="margin-left:46px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black"><a href = "https://academic.oup.com/rcfs">Review of Corporate Finance Studies</a></span></span></span></strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">,&nbsp;accepted,&nbsp;<a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680008">SSRN version</a>, [dynamic capital structure model]</span></span></span></span></span></p>
+<p style="margin-left:40px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black"><a href = "https://academic.oup.com/rcfs">Review of Corporate Finance Studies</a></span></span></span></strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">,&nbsp;accepted,&nbsp;<a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680008">SSRN version</a>, [dynamic capital structure model]</span></span></span></span></span></p>
 
 <p>&nbsp;</p>
 
@@ -82,7 +82,7 @@ nav_order: 1
 <p style="margin-left:48px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">Presentation: SIPP Virtual Conference (2023), AFBC (2022), KAFA (2022),&nbsp;CUHK (2022), NTHU Symposium on Sustainable Finance and Economics (2022)</span></span></span></span></span></p>
 
 <details>
- <summary> <span style="font-size:11pt">Abstract </span> </summary>
+	<summary> <p style="margin-left:48px"> <span style="font-size:11pt">Abstract </span> </p></summary>
 <p style="margin-left:48px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">This paper studies a novel channel through which climate risks affect households&rsquo; choices of risky asset allocation: a stringent climate change regulation elevates labor income risk for households employed by high-emission industries which in turn discourages households&#39; financial risk-taking. Using staggered adoptions of climate change action plans across states, we find that climate change action plans lead to a reduction in the share of risky assets by 15% for households in high-emission industries. We also find a reduction in risky asset holdings after the stringent EPA regulation. These results are stronger with experiences of climate change-related disasters. Our study implies an unintended consequence of climate regulations for wealth inequality by discouraging low-wealth households&#39; financial risk-taking.</span></span></span></span></span></p>
 </details> 
 
