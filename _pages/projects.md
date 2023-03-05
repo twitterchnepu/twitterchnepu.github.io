@@ -49,14 +49,14 @@ nav_order: 1
 
 <p style="margin-left:48px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">Presentation:&nbsp;Colorado Finance Summit&nbsp;(2022),&nbsp;NUS Risk Management conference (2022), CUHK (2022), Hong Kong Joint Finance Research Workshop (2022)</span></span></span></span></span></p>
 
-<p style="margin-left:48px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">Media coverage:&nbsp;Morningstar</span></span></span></span></span></p>
+<p style="margin-left:48px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">Media coverage:&nbsp;<a href = "https://www.morningstar.com/news/marketwatch/20220730279/most-investors-still-dont-understand-the-relationship-between-risk-and-return-study-reveals">Morningstar</a></span></span></span></span></span></p>
 
 <p style="margin-left:48px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">We conduct a novel survey of nationally representative 2,548 U.S. respondents to estimate subjective risk-return trade-offs among savings, government bonds, stocks, real estate, gold, and cryptocurrencies. We document a robust negative relationship between perceived risk and return among risky assets. The ``higher risk, lower return&#39;&#39; relationship remains significant even for wealthy, highly educated, and financially-literate individuals. We find that the negative risk-return trade-offs translate into under-diversified portfolios as investors disproportionately allocate wealth to assets with a higher subjective Sharpe ratio.&nbsp;[Household finance, subjective expectation, and &nbsp;asset pricing]</span></span></span></span></span></p>
 
 <p style="margin-left:48px">&nbsp;</p>
 
 <ul>
-	<li><span style="font-size:11pt"><span style="color:black"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto">Unintended Benefits of Employment Protection Laws: Households&#39; Stock Market Participation</span></span></span></span></span></li>
+	<li><span style="font-size:11pt"><span style="color:black"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4163869">Unintended Benefits of Employment Protection Laws: Households&#39; Stock Market Participation</a></span></span></span></span></span></li>
 </ul>
 
 <p style="margin-left:48px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">Presentation: &nbsp;SIPP Virtual Conference (2023),&nbsp;EFA (2020), NFA (2020), MFA (2020), SFA (2020), SWFA (2020), University of Toronto (2020), CUHK (2020)</span></span></span></span></span></p>
@@ -66,7 +66,7 @@ nav_order: 1
 <p style="margin-left:48px">&nbsp;</p>
 
 <ul>
-	<li><span style="font-size:11pt"><span style="color:black"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto">Climate Change and Households&#39; Risk-Taking&nbsp;with&nbsp;Zhenyu Gao and&nbsp;Singsen Lam</span></span></span></span></span></li>
+	<li><span style="font-size:11pt"><span style="color:black"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4056360">Climate Change and Households&#39; Risk-Taking</a>&nbsp;with&nbsp;Zhenyu Gao and&nbsp;Singsen Lam</span></span></span></span></span></li>
 </ul>
 
 <p style="margin-left:48px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">Presentation: SIPP Virtual Conference (2023), AFBC (2022), KAFA (2022),&nbsp;CUHK (2022), NTHU Symposium on Sustainable Finance and Economics (2022)</span></span></span></span></span></p>
@@ -76,7 +76,7 @@ nav_order: 1
 <p style="margin-left:48px">&nbsp;</p>
 
 <ul>
-	<li><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">The Composition of Market Participants and Asset dynamics&nbsp;</span></span></span></span></span></li>
+	<li><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3349840">The Composition of Market Participants and Asset dynamics</a>&nbsp;</span></span></span></span></span></li>
 </ul>
 
 <p style="margin-left:48px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">Presentation: &nbsp;SFS Cavalcade (2021), RCFS/RAPS Winter Conference (2020), EFA (2019), CICF (2019), APAD (2019), EFMA (2019), ABFER, CEPR and CUHK (2019), SFS Cavalcade Asia (2018), NFA (2018), FMA (2018), YES (2018), TADC (2018), AFM (2017), AFBC (2017), Indiana University (2017)&nbsp;</span></span></span></span></span></p>
@@ -88,7 +88,7 @@ nav_order: 1
 <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:14.0pt"><span style="font-family:Roboto"><span style="color:black">Other Publications</span></span></span></strong></span></span></p>
 
 <ul>
-	<li><span style="font-size:11pt"><span style="color:black"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto">Chinese Economic Policy Uncertainty and U.S. Households&#39; Portfolio Decisions with Kiryoung Lee&nbsp;and&nbsp;Yoontae Jeon, <strong>Pacific-Basin Finance Journal</strong>, Volume 64, 2020&nbsp;[Economic uncertainty, household finance, stock market participation, and Chinese economy]</span></span></span></span></span></li>
+	<li><span style="font-size:11pt"><span style="color:black"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><a href = "https://www.sciencedirect.com/science/article/pii/S0927538X20304510">Chinese Economic Policy Uncertainty and U.S. Households&#39; Portfolio Decisions</a> with Kiryoung Lee&nbsp;and&nbsp;Yoontae Jeon, <strong>Pacific-Basin Finance Journal</strong>, Volume 64, 2020&nbsp;[Economic uncertainty, household finance, stock market participation, and Chinese economy]</span></span></span></span></span></li>
 </ul>
 
 <p>&nbsp;</p>
