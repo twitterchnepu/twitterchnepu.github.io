@@ -39,22 +39,7 @@ nav_order: 1
 
 <p style="margin-left:48px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">Presentation: &nbsp;University of Toronto (2020), Eastern FA (2021)</span></span></span></span></span></p>
 
-
-	<button onclick="toggleText()">Expand Text</button>
-	<div class="expandable-text" id="text-block">
 <p style="margin-left:48px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">We develop 50 novel indices of State-level Economic Policy Uncertainty (SEPU) based on newspaper coverage frequency using 204 million state newspaper articles from January 1990 to December 2019. We assess the validity of our measures. Our SEPU indices vary counter-cyclically with respect to state-specific economic conditions, rise before close gubernatorial elections, and exhibit a large cross-sectional variation. We demonstrate that SEPU indices explain the cross-sectional variation in state-level GDP, employment, income as well as industry investment decisions. Our findings highlight the importance of economic policy uncertainty at the state level in addition to the nationwide level. [Economic uncertainty and applications to corporate finance&nbsp;&amp;&nbsp;asset pricing]</span></span></span></span></span></p>
-	</div>
-	<script>
-		function toggleText() {
-			var textBlock = document.getElementById("text-block");
-			if (textBlock.style.display === "none") {
-				textBlock.style.display = "block";
-			} else {
-				textBlock.style.display = "none";
-			}
-		}
-	</script>
-
 
 
 <p style="margin-left:48px">&nbsp;</p>
