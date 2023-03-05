@@ -44,7 +44,7 @@ nav_order: 1
 <p style="margin-left:48px">&nbsp;</p>
 
 <ul>
-	<li><span style="font-size:11pt"><span style="color:black"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto">Subjective Risk-Return Trade-off with&nbsp;Chen Lin and&nbsp;Yang You</span></span></span></span></span></li>
+	<li><span style="font-size:11pt"><span style="color:black"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4096443">Subjective Risk-Return Trade-off</a> with&nbsp;Chen Lin and&nbsp;Yang You</span></span></span></span></span></li>
 </ul>
 
 <p style="margin-left:48px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">Presentation:&nbsp;Colorado Finance Summit&nbsp;(2022),&nbsp;NUS Risk Management conference (2022), CUHK (2022), Hong Kong Joint Finance Research Workshop (2022)</span></span></span></span></span></p>
