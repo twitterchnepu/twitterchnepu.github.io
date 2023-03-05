@@ -35,7 +35,7 @@ nav_order: 1
 	<li><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3695365">Measuring &quot;State-level&quot; Economic Policy Uncertainty</a> with&nbsp;Redouane Elkamhi and&nbsp;Marco Salerno, [Economic uncertainty and applications to corporate finance&nbsp;&amp;&nbsp;asset pricing]</span></span></span></span></span></li>
 </ul>
 
-<p style="margin-left:40px"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:#000080">Revise and Resubmit,&nbsp;<strong>Journal of Financial and Quantitative Analysis</strong>, 2nd round</span></span></span></span></span></p>
+<p style="margin-left:40px"><span style="font-size:12.0pt"><span style="font-family:Roboto">Revise and Resubmit,&nbsp;<strong><span style="color:#000080">Journal of Financial and Quantitative Analysis</span></strong>, 2nd round</span></span></p>
 
 <p style="margin-left:40px"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">Presentation: &nbsp;University of Toronto (2020), Eastern FA (2021)</span></span></span></span></span></p>
 
