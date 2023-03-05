@@ -25,7 +25,7 @@ nav_order: 1
 	<li><span style="font-size:11pt"><span style="color:black"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><a href = "https://academic.oup.com/rcfs/advance-article-abstract/doi/10.1093/rcfs/cfac019/6576649?redirectedFrom=fulltext"Agency Conflicts and Investment: Evidence from a Structural Estimation</a> with&nbsp;Redouane Elkamhi,&nbsp;Daniel Kim, and&nbsp;Marco Salerno</span></span></span></span></span></li>
 </ul>
 
-<p style="margin-left:48px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">Review of Corporate Finance Studies</span></span></span></strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">,&nbsp;accepted&nbsp;[dynamic capital structure model]</span></span></span></span></span></p>
+<p style="margin-left:48px"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black"><a href = "https://academic.oup.com/rcfs">Review of Corporate Finance Studies</a></span></span></span></strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">,&nbsp;accepted&nbsp;[dynamic capital structure model]</span></span></span></span></span></p>
 
 <p>&nbsp;</p>
 
