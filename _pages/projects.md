@@ -9,7 +9,9 @@ nav_order: 1
 
 <p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:14.0pt"><span style="font-family:Roboto"><span style="color:black">Publications</span></span></span></strong></span></span></p>
 
-<span style="font-size:11pt"><span style="color:black"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3349844">Asset holders' Consumption Risk and Tests of Conditional CCAPM</a> with&nbsp;Redouane Elkamhi</span></span></span></span></span>
+<span style="font-size:11pt"><span style="color:black"><span style="font-family:Calibri,sans-serif"><span style="font-size:14.0pt"><span style="font-family:Roboto"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3349844">Asset holders' Consumption Risk and Tests of Conditional CCAPM</a> </span></span></span></span></span>
+
+with&nbsp;Redouane Elkamhi
 
 <span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:#000080">Journal of Financial Economics</span></span></span></strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">, accepted&nbsp;[Empirical asset pricing,&nbsp;asset holders&#39;&nbsp;consumption]</span></span></span></span></span>
 
