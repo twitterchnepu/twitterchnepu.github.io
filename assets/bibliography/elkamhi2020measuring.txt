@@ -1,0 +1,6 @@
+@article{elkamhi2020measuring,
+  title={Measuring state-level economic policy uncertainty},
+  author={Elkamhi, Redouane and Jo, Chanik and Salerno, Marco},
+  journal={Available at SSRN 3695365},
+  year={2020}
+}
