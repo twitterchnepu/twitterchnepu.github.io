@@ -64,7 +64,7 @@ with&nbsp;Redouane Elkamhi and&nbsp;Marco Salerno
 
 <span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">Presentation: &nbsp;University of Toronto (2020), Eastern FA (2021)</span></span></span></span></span>
 
-Economic uncertainty and applications to corporate finance&nbsp;&amp;&nbsp;asset pricing
+Economic uncertainty and applications to corporate finance&nbsp;&amp;&nbsp;asset pricing, <a href = "../assets/bibliography/elkamhi2020measuring.txt">[+ bibtex]</a>
 
 <details>
 	<summary><span style="font-size:11pt">Abstract </span></summary>
@@ -82,7 +82,7 @@ Economic uncertainty and applications to corporate finance&nbsp;&amp;&nbsp;asset
 
 <span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">Media coverage:&nbsp;<a href = "https://www.morningstar.com/news/marketwatch/20220730279/most-investors-still-dont-understand-the-relationship-between-risk-and-return-study-reveals">Morningstar</a></span></span></span></span></span>
 
-Household finance, subjective expectation, and &nbsp;asset pricing
+Household finance, subjective expectation, and &nbsp;asset pricing, <a href = "../assets/bibliography/jo2023negative.txt">[+ bibtex]</a>
 
 <details>
  <summary> <span style="font-size:11pt">Abstract </span> </summary>
@@ -95,7 +95,7 @@ Household finance, subjective expectation, and &nbsp;asset pricing
 
 <span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">Presentation: &nbsp;SIPP Virtual Conference (2023),&nbsp;EFA (2020), NFA (2020), MFA (2020), SFA (2020), SWFA (2020), University of Toronto (2020), CUHK (2020)</span></span></span></span></span>
 
-Household finance, stock market participation, and labor finance
+Household finance, stock market participation, and labor finance,  <a href = "../assets/bibliography/jo2023unintended.txt">[+ bibtex]</a>
 
 <details>
  <summary> <span style="font-size:11pt">Abstract </span> </summary>
@@ -110,7 +110,7 @@ with&nbsp;Zhenyu Gao and&nbsp;Singsen Lam, &nbsp;
 
 <span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">Presentation: SIPP Virtual Conference (2023), AFBC (2022), KAFA (2022),&nbsp;CUHK (2022), NTHU Symposium on Sustainable Finance and Economics (2022)</span></span></span></span></span>
 
-Household finance, stock market participation, and&nbsp;climate finance
+Household finance, stock market participation, and&nbsp;climate finance,  <a href = "../assets/bibliography/gao2022climate.txt">[+ bibtex]</a>
 
 <details>
 	<summary> <span style="font-size:11pt">Abstract </span></summary>
@@ -123,7 +123,7 @@ Household finance, stock market participation, and&nbsp;climate finance
 
 <span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">Presentation: &nbsp;SFS Cavalcade (2021), RCFS/RAPS Winter Conference (2020), EFA (2019), CICF (2019), APAD (2019), EFMA (2019), ABFER, CEPR and CUHK (2019), SFS Cavalcade Asia (2018), NFA (2018), FMA (2018), YES (2018), TADC (2018), AFM (2017), AFBC (2017), Indiana University (2017)&nbsp;</span></span></span></span></span>
 
-Theoretical asset pricing and stock market participation
+Theoretical asset pricing and stock market participation,  <a href = "../assets/bibliography/jo2022composition.txt">[+ bibtex]</a>
 
 <details>
  <summary> <span style="font-size:11pt">Abstract </span> </summary>
@@ -134,7 +134,7 @@ Theoretical asset pricing and stock market participation
 
 <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:14.0pt"><span style="font-family:Roboto"><span style="color:black">Other Publications</span></span></span></strong></span></span></p>
 
-<span style="font-size:11pt"><span style="color:black"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><a href = "https://www.sciencedirect.com/science/article/pii/S0927538X20304510">Chinese Economic Policy Uncertainty and U.S. Households&#39; Portfolio Decisions</a> with Kiryoung Lee&nbsp;and&nbsp;Yoontae Jeon, <strong><a href = "https://www.sciencedirect.com/journal/pacific-basin-finance-journal">Pacific-Basin Finance Journal</a></strong>, Volume 64, 2020&nbsp;[Economic uncertainty, household finance, stock market participation, and Chinese economy]</span></span></span></span></span>
+<span style="font-size:11pt"><span style="color:black"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><a href = "https://www.sciencedirect.com/science/article/pii/S0927538X20304510">Chinese Economic Policy Uncertainty and U.S. Households&#39; Portfolio Decisions</a> with Kiryoung Lee&nbsp;and&nbsp;Yoontae Jeon, <strong><a href = "https://www.sciencedirect.com/journal/pacific-basin-finance-journal">Pacific-Basin Finance Journal</a></strong>, Volume 64, 2020&nbsp;[Economic uncertainty, household finance, stock market participation, and Chinese economy],  <a href = "../assets/bibliography/lee2020chinese.txt">[+ bibtex]</a></span></span></span></span></span>
 
 <p>&nbsp;</p>
 
