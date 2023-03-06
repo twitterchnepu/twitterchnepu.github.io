@@ -1,0 +1,6 @@
+@article{gao2022climate,
+  title={Climate Change and Households’ Risk-Taking},
+  author={Gao, Z and Jo, C and Lam, S},
+  journal={Available at SSRN},
+  year={2022}
+}
