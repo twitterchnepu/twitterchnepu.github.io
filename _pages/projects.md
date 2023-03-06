@@ -23,7 +23,9 @@ with&nbsp;Redouane Elkamhi
 
 <p style="margin-left:40px">&nbsp;</p>
 
-<span style="font-size:11pt"><span style="color:black"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3669068">A One-Factor Model of Corporate Bond Premia</a> with&nbsp;Redouane Elkamhi and&nbsp;Yoshio Nozawa</span></span></span></span></span>
+<span style="font-size:11pt"><span style="color:black"><span style="font-family:Calibri,sans-serif"><span style="font-size:14.0pt"><span style="font-family:Roboto"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3669068">A One-Factor Model of Corporate Bond Premia</a></span></span></span></span></span>
+
+ with&nbsp;Redouane Elkamhi and&nbsp;Yoshio Nozawa
 
 <span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:#000080">Management Science</span></span></span></strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">, conditionally accepted&nbsp;[Empirical asset pricing, long-run risk, wealthy households&#39; consumption]</span></span></span></span></span>
 
@@ -35,7 +37,9 @@ with&nbsp;Redouane Elkamhi
 
 <p style="margin-left:40px">&nbsp;</p>
 
-<span style="font-size:11pt"><span style="color:black"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><a href = "https://academic.oup.com/rcfs/advance-article-abstract/doi/10.1093/rcfs/cfac019/6576649?redirectedFrom=fulltext">Agency Conflicts and Investment: Evidence from a Structural Estimation</a> with&nbsp;Redouane Elkamhi,&nbsp;Daniel Kim, and&nbsp;Marco Salerno</span></span></span></span></span>
+<span style="font-size:11pt"><span style="color:black"><span style="font-family:Calibri,sans-serif"><span style="font-size:14.0pt"><span style="font-family:Roboto"><a href = "https://academic.oup.com/rcfs/advance-article-abstract/doi/10.1093/rcfs/cfac019/6576649?redirectedFrom=fulltext">Agency Conflicts and Investment: Evidence from a Structural Estimation</a></span></span></span></span></span>
+
+with&nbsp;Redouane Elkamhi,&nbsp;Daniel Kim, and&nbsp;Marco Salerno
 
 <span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:#000080">Review of Corporate Finance Studies</span></span></span></strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">,&nbsp;accepted,&nbsp;<a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680008">SSRN version</a>, [dynamic capital structure model]</span></span></span></span></span>
 
@@ -49,7 +53,9 @@ with&nbsp;Redouane Elkamhi
 
 <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:14.0pt"><span style="font-family:Roboto"><span style="color:black">Working Papers</span></span></span></strong></span></span></p>
 
-<span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3695365">Measuring &quot;State-level&quot; Economic Policy Uncertainty</a> with&nbsp;Redouane Elkamhi and&nbsp;Marco Salerno, [Economic uncertainty and applications to corporate finance&nbsp;&amp;&nbsp;asset pricing]</span></span></span></span></span>
+<span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:14.0pt"><span style="font-family:Roboto"><span style="color:black"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3695365">Measuring &quot;State-level&quot; Economic Policy Uncertainty</a></span></span></span></span></span>
+
+with&nbsp;Redouane Elkamhi and&nbsp;Marco Salerno, [Economic uncertainty and applications to corporate finance&nbsp;&amp;&nbsp;asset pricing]
 
 <span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto">Revise and Resubmit,&nbsp;<strong><span style="color:#000080">Journal of Financial and Quantitative Analysis</span></strong>, 2nd round</span></span></span></span>
 
@@ -63,7 +69,9 @@ with&nbsp;Redouane Elkamhi
 
 <p style="margin-left:40px">&nbsp;</p>
 
-<span style="font-size:11pt"><span style="color:black"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4096443">Subjective Risk-Return Trade-off</a> with&nbsp;Chen Lin and&nbsp;Yang You, [Household finance, subjective expectation, and &nbsp;asset pricing]</span></span></span></span></span>
+<span style="font-size:11pt"><span style="color:black"><span style="font-family:Calibri,sans-serif"><span style="font-size:14.0pt"><span style="font-family:Roboto"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4096443">Subjective Risk-Return Trade-off</a></span></span></span></span></span>
+
+ with&nbsp;Chen Lin and&nbsp;Yang You, [Household finance, subjective expectation, and &nbsp;asset pricing]
 
 <span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">Presentation:&nbsp;Colorado Finance Summit&nbsp;(2022),&nbsp;NUS Risk Management conference (2022), CUHK (2022), Hong Kong Joint Finance Research Workshop (2022)</span></span></span></span></span>
 
@@ -76,7 +84,9 @@ with&nbsp;Redouane Elkamhi
 
 <p style="margin-left:40px">&nbsp;</p>
 
-<span style="font-size:11pt"><span style="color:black"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4163869">Unintended Benefits of Employment Protection Laws: Households&#39; Stock Market Participation</a>, &nbsp;[Household finance, stock market participation, and labor finance] </span></span></span></span></span>
+<span style="font-size:11pt"><span style="color:black"><span style="font-family:Calibri,sans-serif"><span style="font-size:14.0pt"><span style="font-family:Roboto"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4163869">Unintended Benefits of Employment Protection Laws: Households&#39; Stock Market Participation</a> </span></span></span></span></span>
+
+[Household finance, stock market participation, and labor finance]
 
 <span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">Presentation: &nbsp;SIPP Virtual Conference (2023),&nbsp;EFA (2020), NFA (2020), MFA (2020), SFA (2020), SWFA (2020), University of Toronto (2020), CUHK (2020)</span></span></span></span></span>
 
@@ -87,7 +97,9 @@ with&nbsp;Redouane Elkamhi
 
 <p style="margin-left:40px">&nbsp;</p>
 
-<span style="font-size:11pt"><span style="color:black"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4056360">Climate Change and Households&#39; Risk-Taking</a>&nbsp;with&nbsp;Zhenyu Gao and&nbsp;Singsen Lam, &nbsp; [Household finance, stock market participation, and&nbsp;climate finance]</span></span></span></span></span>
+<span style="font-size:11pt"><span style="color:black"><span style="font-family:Calibri,sans-serif"><span style="font-size:14.0pt"><span style="font-family:Roboto"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4056360">Climate Change and Households&#39; Risk-Taking</a></span></span></span></span></span>
+
+with&nbsp;Zhenyu Gao and&nbsp;Singsen Lam, &nbsp; [Household finance, stock market participation, and&nbsp;climate finance]
 
 <span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">Presentation: SIPP Virtual Conference (2023), AFBC (2022), KAFA (2022),&nbsp;CUHK (2022), NTHU Symposium on Sustainable Finance and Economics (2022)</span></span></span></span></span>
 
@@ -98,7 +110,9 @@ with&nbsp;Redouane Elkamhi
 
 <p style="margin-left:40px">&nbsp;</p>
 
-<span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3349840">The Composition of Market Participants and Asset dynamics</a>,&nbsp; [Theoretical asset pricing and stock market participation]</span></span></span></span></span>
+<span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:14.0pt"><span style="font-family:Roboto"><span style="color:black"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3349840">The Composition of Market Participants and Asset dynamics</a></span></span></span></span></span>
+
+[Theoretical asset pricing and stock market participation]
 
 <span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">Presentation: &nbsp;SFS Cavalcade (2021), RCFS/RAPS Winter Conference (2020), EFA (2019), CICF (2019), APAD (2019), EFMA (2019), ABFER, CEPR and CUHK (2019), SFS Cavalcade Asia (2018), NFA (2018), FMA (2018), YES (2018), TADC (2018), AFM (2017), AFBC (2017), Indiana University (2017)&nbsp;</span></span></span></span></span>
 
