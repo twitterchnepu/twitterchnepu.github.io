@@ -1,4 +1,4 @@
-@article{elkamhi2021agency,
+@article{elkamhi2023agency,
   title={Agency Conflicts and Investment: Evidence from a Structural Estimation},
   author={Elkamhi, Redouane and Kim, Daniel and Jo, Chanik and Salerno, Marco},
   journal={Review of Corporate Finance Studies, forthcoming},
