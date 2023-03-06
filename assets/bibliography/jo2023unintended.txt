@@ -1,0 +1,6 @@
+@article{jo2023unintended,
+  title={Unintended Benefits of Employment Protection Laws: Households' Stock Market Participation},
+  author={Jo, Chanik},
+  journal={Available at SSRN},
+  year={2023}
+}
