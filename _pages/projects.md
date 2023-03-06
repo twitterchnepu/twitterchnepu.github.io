@@ -13,7 +13,7 @@ nav_order: 1
 
 with&nbsp;Redouane Elkamhi
 
-<span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:#000080">Journal of Financial Economics</span></span></span></strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">, accepted, <a href = "../assets/bibliography/elkamhi2022asset.txt">[+ bibtex]</a></span></span></span></span></span>
+<span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:#000080">Journal of Financial Economics</span></span></span></strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">, accepted, <a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680008">SSRN version</a>, <a href = "../assets/bibliography/elkamhi2022asset.txt">[+ bibtex]</a></span></span></span></span></span>
 
 Empirical asset pricing,&nbsp;asset holders&#39;&nbsp;consumption
 
@@ -28,7 +28,7 @@ Empirical asset pricing,&nbsp;asset holders&#39;&nbsp;consumption
 
  with&nbsp;Redouane Elkamhi and&nbsp;Yoshio Nozawa
 
-<span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:#000080">Management Science</span></span></span></strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">, conditionally accepted</span></span></span></span></span>
+<span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:#000080">Management Science</span></span></span></strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">, conditionally accepted, <a href = "../assets/bibliography/elkamhi2022one.txt">[+ bibtex]</a></span></span></span></span></span>
 
 Empirical asset pricing, long-run risk, wealthy households&#39; consumption
 
@@ -43,7 +43,7 @@ Empirical asset pricing, long-run risk, wealthy households&#39; consumption
 
 with&nbsp;Redouane Elkamhi,&nbsp;Daniel Kim, and&nbsp;Marco Salerno
 
-<span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:#000080">Review of Corporate Finance Studies</span></span></span></strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">,&nbsp;accepted,&nbsp;<a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680008">SSRN version</a></span></span></span></span></span>
+<span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:#000080">Review of Corporate Finance Studies</span></span></span></strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">,&nbsp;accepted,&nbsp;<a href = "../assets/bibliography/elkamhi2021agency.txt">[+ bibtex]</a>, <a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680008">SSRN version</a></span></span></span></span></span>
 
 Dynamic capital structure model
 
