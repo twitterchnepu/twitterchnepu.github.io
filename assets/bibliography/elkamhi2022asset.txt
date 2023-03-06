@@ -1,0 +1,6 @@
+@article{elkamhi2022asset,
+  title={Asset holders’ Consumption Risk and Tests of Conditional CCAPM},
+  author={Elkamhi, Redouane and Jo, Chanik},
+  year={2022}
+  journal={Journal of Financial Economics, forthcoming},
+}
