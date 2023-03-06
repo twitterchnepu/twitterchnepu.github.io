@@ -13,7 +13,7 @@ nav_order: 1
 
 with&nbsp;Redouane Elkamhi
 
-<span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:#000080">Journal of Financial Economics</span></span></span></strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">, accepted, <a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680008">SSRN version</a>, <a href = "../assets/bibliography/elkamhi2022asset.txt">[+ bibtex]</a></span></span></span></span></span>
+<span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:#000080">Journal of Financial Economics</span></span></span></strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">, accepted, <a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680008">SSRN version</a>, <a href = "../assets/bibliography/elkamhi2023asset.txt">[+ bibtex]</a></span></span></span></span></span>
 
 Empirical asset pricing,&nbsp;asset holders&#39;&nbsp;consumption
 
