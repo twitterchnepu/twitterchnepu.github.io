@@ -1,0 +1,6 @@
+@article{jo2022composition,
+  title={The Composition of Market Participants and Asset Dynamics},
+  author={Jo, Chanik},
+  journal={Available at SSRN 3349840},
+  year={2022}
+}
