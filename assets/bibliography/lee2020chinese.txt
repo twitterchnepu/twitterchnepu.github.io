@@ -1,0 +1,9 @@
+@article{lee2020chinese,
+  title={Chinese economic policy uncertainty and US households' portfolio decisions},
+  author={Lee, Kiryoung and Jeon, Yoontae and Jo, Chanik},
+  journal={Pacific-Basin Finance Journal},
+  volume={64},
+  pages={101452},
+  year={2020},
+  publisher={Elsevier}
+}
