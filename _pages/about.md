@@ -21,7 +21,7 @@ Email: <a href = "mailto:chanikjo@cuhk.edu.hk">chanikjo@cuhk.edu.hk</a>
 Research interest: Household Finance, Asset Pricing, Climate Finance
 
 
-<a href = "https://www.dropbox.com/s/77gesw9zy9kh2kp/CV_chanikjo.pdf?dl=0">CV</a> 
+<a href = "../assets/pdf/CV_chanikjo.pdf">CV</a> 
 | [SSRN Page](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2641232) | [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=5&user=4uNaol0AAAAJ) | [Twitter](https://mobile.twitter.com/jo_chanik) | [Department webpage](https://www.bschool.cuhk.edu.hk/staff/jo-chanik/) <br>
 
 
