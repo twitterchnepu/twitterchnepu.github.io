@@ -43,5 +43,8 @@ nav_order: 3
 
 <p>&nbsp;</p>
 
-<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:14.0pt"><span style="font-family:Roboto">Award</span></span></strong></span></span></p>
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:14.0pt"><span style="font-family:Roboto">Awards</span></span></strong></span></span></p>
 
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="background-color:white"><span style="font-family:Roboto"><span style="color:black">Rotman School of Management Teaching Award, University of Toronto, 2022</span></span></span></span></strong></span></span></p>
+
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="background-color:white"><span style="font-family:Roboto"><span style="color:black">Financial News-KAFA Doctoral Student Dissertation Award, 2020</span></span></span></span></strong></span></span></p>
