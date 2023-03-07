@@ -8,7 +8,7 @@ nav_order: 3
 
 <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:Roboto"><span style="color:navy"><a href="../assets/pdf/CV_chanikjo.pdf" style="color:#000080; text-decoration:underline"><span style="color:#000080">PDF File</span></a></span></span></span></span></p> <br> 
 
-<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:14.0pt"><span style="font-family:Roboto">Employment</span></span></strong></span></span></p>
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:14.0pt"><span style="font-family:Roboto"><u>Employment</u></span></span></strong></span></span></p>
 
 <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="background-color:white"><span style="font-family:Roboto"><span style="color:black">Chinese University of Hong Kong Business School, Hong Kong</span></span></span></span></strong></span></span></p>
 
@@ -18,7 +18,7 @@ nav_order: 3
 
 <p>&nbsp;</p>
 
-<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:14.0pt"><span style="font-family:Roboto">Education</span></span></strong></span></span></p>
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:14.0pt"><span style="font-family:Roboto"><u>Education</u></span></span></strong></span></span></p>
 
 <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="background-color:white"><span style="font-family:Roboto"><span style="color:black">University of Toronto, Toronto, Canada</span></span></span></span></strong></span></span></p>
 
@@ -43,7 +43,7 @@ nav_order: 3
 
 <p>&nbsp;</p>
 
-<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:14.0pt"><span style="font-family:Roboto">Awards</span></span></strong></span></span></p>
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:14.0pt"><span style="font-family:Roboto"><u>Awards</u></span></span></strong></span></span></p>
 
 <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="background-color:white"><span style="font-family:Roboto"><span style="color:black">Rotman School of Management Teaching Award, University of Toronto, 2022</span></span></span></span></strong></span></span></p>
 
