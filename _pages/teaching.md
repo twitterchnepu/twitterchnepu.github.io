@@ -29,6 +29,9 @@ nav_order: 2
         </ul>
     </li>
 </ul>
+
+
+<p style="margin-left:40px">&nbsp;</p>
 <p><strong>University of Toronto, Rotman School of Management</strong></p>
 <ul>
     <li>
