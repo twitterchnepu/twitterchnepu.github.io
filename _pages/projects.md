@@ -95,7 +95,7 @@ Household finance, subjective expectation, and &nbsp;asset pricing, <a href = ".
 
 <span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">Presentation: &nbsp;SIPP Virtual Conference (2023),&nbsp;EFA (2020), NFA (2020), MFA (2020), SFA (2020), SWFA (2020), University of Toronto (2020), CUHK (2020)</span></span></span></span></span>
 
-Household finance, stock market participation, and labor finance,  <a href = "../assets/bibliography/jo2023unintended.txt">[+ bibtex]</a>
+Household finance, stock market participation, and labor finance, <a href = "../assets/pdf/online_appendix/Jo_Internet_Appendix.pdf">Online Appendix</a>, <a href = "../assets/bibliography/jo2023unintended.txt">[+ bibtex]</a>
 
 <details>
  <summary> <span style="font-size:11pt">Abstract </span> </summary>
