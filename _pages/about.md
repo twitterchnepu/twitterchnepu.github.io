@@ -27,4 +27,4 @@ Research interest: Household Finance, Asset Pricing, Climate Finance
 
 I am an Assistant Professor of Finance at the Chinese University of Hong Kong (CUHK) Business school. I received my PhD in Finance at the University of Toronto in 2021. <br>
 
-Upcoming presentations: Labor and Finance conference (Columbia Business School, NY), KAIST, U of Sydney 
+Upcoming presentations: Labor and Finance conference (Columbia Business School), KAIST, U of Sydney 
