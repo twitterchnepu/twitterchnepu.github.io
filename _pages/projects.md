@@ -15,7 +15,7 @@ with&nbsp;Redouane Elkamhi
 
 <span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:#000080">Journal of Financial Economics</span></span></span></strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">, accepted, <a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3349844">SSRN version</a>, <a href = "../assets/pdf/online_appendix/Elkamhi_Jo_JFE_Internet_Appendix.pdf">Online Appendix</a>, <a href = "../assets/bibliography/elkamhi2023asset.txt">[+ bibtex]</a></span></span></span></span></span>
 
-Empirical asset pricing,&nbsp;asset holders&#39;&nbsp;consumption
+Empirical asset pricing,&nbsp;asset holders&#39;&nbsp;consumption, procyclical price of risk
 
 <details>
 	<summary><span style="font-size:11pt">Abstract </span></summary>
@@ -30,7 +30,7 @@ Empirical asset pricing,&nbsp;asset holders&#39;&nbsp;consumption
 
 <span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:#000080">Management Science</span></span></span></strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">, conditionally accepted, <a href = "../assets/pdf/online_appendix/Elkamhi_Jo_Nozawa_MS_Internet_Appendix.pdf">Online Appendix</a>, <a href = "../assets/bibliography/elkamhi2022one.txt">[+ bibtex]</a></span></span></span></span></span>
 
-Empirical asset pricing, long-run risk, wealthy households&#39; consumption
+Empirical asset pricing, long-run risk, wealthy households&#39; consumption, plausible level of price of risk
 
 <details>
 	<summary><span style="font-size:11pt">Abstract </span></summary>
@@ -82,7 +82,7 @@ Economic uncertainty and applications to corporate finance&nbsp;&amp;&nbsp;asset
 
 <span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">Media coverage:&nbsp;<a href = "https://www.morningstar.com/news/marketwatch/20220730279/most-investors-still-dont-understand-the-relationship-between-risk-and-return-study-reveals">Morningstar</a></span></span></span></span></span>
 
-Household finance, subjective expectation, and &nbsp;asset pricing, <a href = "../assets/bibliography/jo2023negative.txt">[+ bibtex]</a>
+Household finance, subjective expectation, &nbsp;asset pricing, negative subjective risk-return trade-off <a href = "../assets/bibliography/jo2023negative.txt">[+ bibtex]</a>
 
 <details>
  <summary> <span style="font-size:11pt">Abstract </span> </summary>
