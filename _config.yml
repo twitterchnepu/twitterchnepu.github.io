@@ -10,7 +10,7 @@ email: chanikjo@cuhk.edu.hk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Chanik Jo, Assistant Professor of Finance at The Chinese University of Hong Kong Business School
 footer_text: >
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
+keywords: Chanik Jo, CUHK, Chinese University of Hong Kong Business School, Assistant Professor  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🎓  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
