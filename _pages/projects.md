@@ -106,7 +106,7 @@ Household finance, stock market participation, and labor finance, <a href = "../
 
 <span style="font-size:11pt"><span style="color:black"><span style="font-family:Calibri,sans-serif"><span style="font-size:14.0pt"><span style="font-family:Roboto"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4056360">Climate Change and Households&#39; Risk-Taking</a></span></span></span></span></span>
 
-with&nbsp;Zhenyu Gao and&nbsp;Singsen Lam, &nbsp; 
+with&nbsp;Zhenyu Gao and&nbsp;Singsen Lam &nbsp; 
 
 <span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">Presentation: SIPP Virtual Conference (2023), AFBC (2022), KAFA (2022),&nbsp;CUHK (2022), NTHU Symposium on Sustainable Finance and Economics (2022)</span></span></span></span></span>
 
