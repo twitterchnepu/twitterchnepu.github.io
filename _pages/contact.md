@@ -7,4 +7,5 @@ nav: true
 nav_order: 4
 ---
 
-Email: chanikjo@cuhk.edu.hk
+Email: <a href = "mailto:chanikjo@cuhk.edu.hk">chanikjo@cuhk.edu.hk</a> 
+Address: Room 1252, 12/F, Cheng Yu Tung Building, 12 Chak Cheung Street, Shatin, N.T., Hong Kong
