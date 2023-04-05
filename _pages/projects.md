@@ -28,7 +28,7 @@ Empirical asset pricing,&nbsp;asset holders&#39;&nbsp;consumption
 
  with&nbsp;Redouane Elkamhi and&nbsp;Yoshio Nozawa
 
-<span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:#000080">Management Science</span></span></span></strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">, forthcoming, <a href = "../assets/pdf/online_appendix/Elkamhi_Jo_Nozawa_MS_Internet_Appendix.pdf">Online Appendix</a>, <a href = "../assets/bibliography/elkamhi2022one.txt">[+ bibtex]</a></span></span></span></span></span>
+<span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:#000080">Management Science</span></span></span></strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">, forthcoming, <a href = "../assets/pdf/online_appendix/Elkamhi_Jo_Nozawa_MS_Internet_Appendix.pdf">Online Appendix</a>, <a href = "../assets/bibliography/elkamhi2023one.txt">[+ bibtex]</a></span></span></span></span></span>
 
 Empirical asset pricing, long-run risk, wealthy households&#39; consumption
 
