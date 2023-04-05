@@ -1,6 +1,6 @@
-@article{elkamhi2022one,
+@article{elkamhi2023one,
   title={A one-factor model of corporate bond premia},
   author={Elkamhi, Redouane and Jo, Chanik and Nozawa, Yoshio},
-  journal={Available at SSRN 3669068},
-  year={2022}
+  journal={Management Science, forthcoming},
+  year={2023}
 }
