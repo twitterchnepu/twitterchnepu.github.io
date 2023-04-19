@@ -9,7 +9,7 @@ nav_order: 1
 
 <p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:14.0pt"><span style="font-family:Roboto"><span style="color:black">Publications</span></span></span></strong></span></span></p>
 
-<span style="font-size:11pt"><span style="color:black"><span style="font-family:Calibri,sans-serif"><span style="font-size:14.0pt"><span style="font-family:Roboto"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3349844">Asset holders' Consumption Risk and Tests of Conditional CCAPM</a> </span></span></span></span></span>
+<span style="font-size:11pt"><span style="color:black"><span style="font-family:Calibri,sans-serif"><span style="font-size:14.0pt"><span style="font-family:Roboto"><a href = "https://www.sciencedirect.com/science/article/pii/S0304405X23000624">Asset holders' Consumption Risk and Tests of Conditional CCAPM</a> </span></span></span></span></span>
 
 with&nbsp;Redouane Elkamhi
 
