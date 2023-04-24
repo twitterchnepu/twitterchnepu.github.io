@@ -1,5 +1,5 @@
 @article{elkamhi2023asset,
-  title={Asset holders’ Consumption Risk and Tests of Conditional CCAPM},
+  title={Asset holders’ consumption risk and tests of conditional CCAPM},
   author={Elkamhi, Redouane and Jo, Chanik},
   journal={Journal of Financial Economics},
   volume={148},
