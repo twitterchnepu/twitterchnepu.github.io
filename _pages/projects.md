@@ -131,7 +131,7 @@ Theoretical asset pricing and stock market participation,  <a href = "../assets/
 </details>
 
 <p style="margin-left:40px">&nbsp;</p>
-
+<p>&nbsp;</p>
 <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:14.0pt"><span style="font-family:Roboto"><span style="color:black">Other Publications</span></span></span></strong></span></span></p>
 
 <span style="font-size:11pt"><span style="color:black"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><a href = "https://www.sciencedirect.com/science/article/pii/S0927538X20304510">Chinese Economic Policy Uncertainty and U.S. Households&#39; Portfolio Decisions</a> with Kiryoung Lee&nbsp;and&nbsp;Yoontae Jeon, <strong><a href = "https://www.sciencedirect.com/journal/pacific-basin-finance-journal">Pacific-Basin Finance Journal</a></strong>, Volume 64, 2020&nbsp;[Economic uncertainty, household finance, stock market participation, and Chinese economy],  <a href = "../assets/bibliography/lee2020chinese.txt">[+ bibtex]</a></span></span></span></span></span>
