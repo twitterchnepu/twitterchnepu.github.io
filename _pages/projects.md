@@ -39,6 +39,22 @@ Empirical asset pricing, long-run risk, wealthy households&#39; consumption
 
 <p style="margin-left:40px">&nbsp;</p>
 
+<span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:14.0pt"><span style="font-family:Roboto"><span style="color:black"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3695365">Measuring &quot;State-level&quot; Economic Policy Uncertainty</a></span></span></span></span></span>
+
+with&nbsp;Redouane Elkamhi and&nbsp;Marco Salerno
+
+<span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto">Revise and Resubmit,&nbsp;<strong><span style="color:#000080">Journal of Financial and Quantitative Analysis</span></strong>, forthcoming</span></span></span></span>
+
+Economic uncertainty and applications to corporate finance&nbsp;&amp;&nbsp;asset pricing, <a href = "../assets/bibliography/elkamhi2020measuring.txt">[+ bibtex]</a>
+
+<details>
+	<summary><span style="font-size:11pt">Abstract </span></summary>
+<span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">We develop 50 novel indices of State-level Economic Policy Uncertainty (SEPU) based on newspaper coverage frequency using 204 million state newspaper articles from January 1990 to December 2019. We assess the validity of our measures. Our SEPU indices vary counter-cyclically with respect to state-specific economic conditions, rise before close gubernatorial elections, and exhibit a large cross-sectional variation. We demonstrate that SEPU indices explain the cross-sectional variation in state-level GDP, employment, income as well as industry investment decisions. Our findings highlight the importance of economic policy uncertainty at the state level in addition to the nationwide level.</span></span></span></span></span>
+</details>
+
+
+<p style="margin-left:40px">&nbsp;</p>
+
 <span style="font-size:11pt"><span style="color:black"><span style="font-family:Calibri,sans-serif"><span style="font-size:14.0pt"><span style="font-family:Roboto"><a href = "https://academic.oup.com/rcfs/advance-article-abstract/doi/10.1093/rcfs/cfac019/6576649?redirectedFrom=fulltext">Agency Conflicts and Investment: Evidence from a Structural Estimation</a></span></span></span></span></span>
 
 with&nbsp;Redouane Elkamhi,&nbsp;Daniel Kim, and&nbsp;Marco Salerno
@@ -56,23 +72,6 @@ Dynamic capital structure model
 
 <p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><strong><span style="font-size:14.0pt"><span style="font-family:Roboto"><span style="color:black">Working Papers</span></span></span></strong></span></span></p>
 
-<span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:14.0pt"><span style="font-family:Roboto"><span style="color:black"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3695365">Measuring &quot;State-level&quot; Economic Policy Uncertainty</a></span></span></span></span></span>
-
-with&nbsp;Redouane Elkamhi and&nbsp;Marco Salerno
-
-<span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto">Revise and Resubmit,&nbsp;<strong><span style="color:#000080">Journal of Financial and Quantitative Analysis</span></strong>, 2nd round</span></span></span></span>
-
-<span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">Presentation: &nbsp;University of Toronto (2020), Eastern FA (2021)</span></span></span></span></span>
-
-Economic uncertainty and applications to corporate finance&nbsp;&amp;&nbsp;asset pricing, <a href = "../assets/bibliography/elkamhi2020measuring.txt">[+ bibtex]</a>
-
-<details>
-	<summary><span style="font-size:11pt">Abstract </span></summary>
-<span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">We develop 50 novel indices of State-level Economic Policy Uncertainty (SEPU) based on newspaper coverage frequency using 204 million state newspaper articles from January 1990 to December 2019. We assess the validity of our measures. Our SEPU indices vary counter-cyclically with respect to state-specific economic conditions, rise before close gubernatorial elections, and exhibit a large cross-sectional variation. We demonstrate that SEPU indices explain the cross-sectional variation in state-level GDP, employment, income as well as industry investment decisions. Our findings highlight the importance of economic policy uncertainty at the state level in addition to the nationwide level.</span></span></span></span></span>
-</details>
-
-
-<p style="margin-left:40px">&nbsp;</p>
 
 <span style="font-size:11pt"><span style="color:black"><span style="font-family:Calibri,sans-serif"><span style="font-size:14.0pt"><span style="font-family:Roboto"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4096443">Subjective Risk-Return Trade-off</a></span></span></span></span></span>
 
