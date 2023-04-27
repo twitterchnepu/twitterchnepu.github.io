@@ -43,7 +43,7 @@ Empirical asset pricing, long-run risk, wealthy households&#39; consumption
 
 with&nbsp;Redouane Elkamhi and&nbsp;Marco Salerno
 
-<span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><strong><span style="color:#000080">Journal of Financial and Quantitative Analysis</span></strong>, forthcoming, <a href = "https://www.dropbox.com/s/zbd4piw3rp7twsz/SEPU_EJS.csv?dl=0">Data</a>, <a href = "../assets/bibliography/elkamhi2020measuring.txt">[+ bibtex]</a></span></span></span></span>
+<span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><strong><span style="color:#000080">Journal of Financial and Quantitative Analysis</span></strong>, forthcoming, <a href = "https://www.dropbox.com/s/zbd4piw3rp7twsz/SEPU_EJS.csv?dl=0">Data</a>, <a href = "../assets/pdf/online_appendix/Elkamhi_Jo_Salerno_JFQA_Internet_Appendix.pdf">Online Appendix</a>, <a href = "../assets/bibliography/elkamhi2020measuring.txt">[+ bibtex]</a></span></span></span></span>
 
 Economic uncertainty and applications to corporate finance&nbsp;&amp;&nbsp;asset pricing
 
