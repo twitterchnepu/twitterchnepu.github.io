@@ -82,7 +82,7 @@ Dynamic capital structure model
 
 <span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">Media coverage:&nbsp;<a href = "https://www.morningstar.com/news/marketwatch/20220730279/most-investors-still-dont-understand-the-relationship-between-risk-and-return-study-reveals">Morningstar</a></span></span></span></span></span>
 
-Household finance, subjective expectation, &nbsp;asset pricing, <a href = "../assets/bibliography/jo2023negative.txt">[+ bibtex]</a>
+<span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">Household finance, subjective expectation, &nbsp;asset pricing, <a href = "../assets/bibliography/jo2023negative.txt">[+ bibtex]</a></span></span></span></span></span>
 
 <details>
  <summary> <span style="font-size:11pt">Abstract </span> </summary>
@@ -95,7 +95,7 @@ Household finance, subjective expectation, &nbsp;asset pricing, <a href = "../as
 
 <span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">Presentation: &nbsp;Labor and Finance (2023, scheduled), SIPP Virtual Conference (2023),&nbsp;EFA (2020), NFA (2020), MFA (2020), SFA (2020), SWFA (2020), University of Toronto (2020), CUHK (2020)</span></span></span></span></span>
 
-Household finance, stock market participation, and labor finance, <a href = "../assets/pdf/online_appendix/Jo_Internet_Appendix.pdf">Online Appendix</a>, <a href = "../assets/bibliography/jo2023unintended.txt">[+ bibtex]</a>
+<span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">Household finance, stock market participation, and labor finance, <a href = "../assets/pdf/online_appendix/Jo_Internet_Appendix.pdf">Online Appendix</a>, <a href = "../assets/bibliography/jo2023unintended.txt">[+ bibtex]</a></span></span></span></span></span>
 
 <details>
  <summary> <span style="font-size:11pt">Abstract </span> </summary>
@@ -110,7 +110,7 @@ with&nbsp;Zhenyu Gao and&nbsp;Singsen Lam &nbsp;
 
 <span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">Presentation: SIPP Virtual Conference (2023), AFBC (2022), KAFA (2022),&nbsp;CUHK (2022), NTHU Symposium on Sustainable Finance and Economics (2022)</span></span></span></span></span>
 
-Household finance, stock market participation, and&nbsp;climate finance,  <a href = "../assets/bibliography/gao2022climate.txt">[+ bibtex]</a>
+<span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">Household finance, stock market participation, and&nbsp;climate finance,  <a href = "../assets/bibliography/gao2022climate.txt">[+ bibtex]</a></span></span></span></span></span>
 
 <details>
 	<summary> <span style="font-size:11pt">Abstract </span></summary>
@@ -123,7 +123,7 @@ Household finance, stock market participation, and&nbsp;climate finance,  <a hre
 
 <span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">Presentation: &nbsp;SFS Cavalcade (2021), RCFS/RAPS Winter Conference (2020), EFA (2019), CICF (2019), APAD (2019), EFMA (2019), ABFER, CEPR and CUHK (2019), SFS Cavalcade Asia (2018), NFA (2018), FMA (2018), YES (2018), TADC (2018), AFM (2017), AFBC (2017), Indiana University (2017)&nbsp;</span></span></span></span></span>
 
-Theoretical asset pricing and stock market participation,  <a href = "../assets/bibliography/jo2022composition.txt">[+ bibtex]</a>
+<span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">Theoretical asset pricing and stock market participation,  <a href = "../assets/bibliography/jo2022composition.txt">[+ bibtex]</a></span></span></span></span></span>
 
 <details>
  <summary> <span style="font-size:11pt">Abstract </span> </summary>
