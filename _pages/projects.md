@@ -11,11 +11,11 @@ nav_order: 1
 
 <span style="color:black"><span style="font-size:14.0pt"><span style="font-family:Roboto"><a href = "https://www.sciencedirect.com/science/article/pii/S0304405X23000624">Asset holders' Consumption Risk and Tests of Conditional CCAPM</a></span></span></span>
 
-with&nbsp;Redouane Elkamhi
+<span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">with&nbsp;Redouane Elkamhi</span></span></span>
 
 <span style="font-size:12.0pt"><span style="font-family:Roboto"><strong><span style="color:#000080">Journal of Financial Economics</span></strong>, forthcoming, <a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3349844">SSRN version</a>, <a href = "../assets/pdf/online_appendix/Elkamhi_Jo_JFE_Internet_Appendix.pdf">Online Appendix</a>, <a href = "../assets/bibliography/elkamhi2023asset.txt">[+ bibtex]</a></span></span>
 
-Empirical asset pricing,&nbsp;asset holders&#39;&nbsp;consumption,&nbsp;conditional tests
+<span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">Empirical asset pricing,&nbsp;asset holders&#39;&nbsp;consumption,&nbsp;conditional tests</span></span></span>
 
 <details>
 	<summary><span style="font-size:12pt">Abstract </span></summary>
@@ -26,11 +26,11 @@ Empirical asset pricing,&nbsp;asset holders&#39;&nbsp;consumption,&nbsp;conditio
 
 <span style="color:black"><span style="font-size:14.0pt"><span style="font-family:Roboto"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3669068">A One-Factor Model of Corporate Bond Premia</a></span></span></span>
 
- with&nbsp;Redouane Elkamhi and&nbsp;Yoshio Nozawa
+ <span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">with&nbsp;Redouane Elkamhi and&nbsp;Yoshio Nozawa</span></span></span>
 
 <span style="font-size:12.0pt"><span style="font-family:Roboto"><strong><span style="color:#000080">Management Science</span></strong>, forthcoming, <a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3669068">SSRN version</a>, <a href = "../assets/pdf/online_appendix/Elkamhi_Jo_Nozawa_MS_Internet_Appendix.pdf">Online Appendix</a>, <a href = "../assets/bibliography/elkamhi2023one.txt">[+ bibtex]</a></span></span>
 
-Empirical asset pricing, long-run risk, wealthy households&#39; consumption
+<span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">Empirical asset pricing, long-run risk, wealthy households&#39; consumption</span></span></span>
 
 <details>
 	<summary><span style="font-size:12pt">Abstract </span></summary>
@@ -41,11 +41,11 @@ Empirical asset pricing, long-run risk, wealthy households&#39; consumption
 
 <span style="font-size:14.0pt"><span style="font-family:Roboto"><span style="color:black"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3695365">Measuring &quot;State-level&quot; Economic Policy Uncertainty</a></span></span></span>
 
-with&nbsp;Redouane Elkamhi and&nbsp;Marco Salerno
+<span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">with&nbsp;Redouane Elkamhi and&nbsp;Marco Salerno</span></span></span>
 
 <span style="font-size:12.0pt"><span style="font-family:Roboto"><strong><span style="color:#000080">Journal of Financial and Quantitative Analysis</span></strong>, forthcoming, <a href = "https://www.dropbox.com/s/zbd4piw3rp7twsz/SEPU_EJS.csv?dl=0">Data</a>, <a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3695365">SSRN version</a>, <a href = "../assets/pdf/online_appendix/Elkamhi_Jo_Salerno_JFQA_Internet_Appendix.pdf">Online Appendix</a>, <a href = "../assets/bibliography/elkamhi2020measuring.txt">[+ bibtex]</a></span></span>
 
-Economic uncertainty and applications to corporate finance&nbsp;&amp;&nbsp;asset pricing
+<span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">Economic uncertainty and applications to corporate finance&nbsp;&amp;&nbsp;asset pricing</span></span></span>
 
 <details>
 	<summary><span style="font-size:12pt">Abstract </span></summary>
@@ -57,11 +57,11 @@ Economic uncertainty and applications to corporate finance&nbsp;&amp;&nbsp;asset
 
 <span style="color:black"><span style="font-family:Calibri,sans-serif"><span style="font-size:14.0pt"><span style="font-family:Roboto"><a href = "https://academic.oup.com/rcfs/advance-article-abstract/doi/10.1093/rcfs/cfac019/6576649?redirectedFrom=fulltext">Agency Conflicts and Investment: Evidence from a Structural Estimation</a></span></span></span></span>
 
-with&nbsp;Redouane Elkamhi,&nbsp;Daniel Kim, and&nbsp;Marco Salerno
+<span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">with&nbsp;Redouane Elkamhi,&nbsp;Daniel Kim, and&nbsp;Marco Salerno</span></span></span>
 
 <strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:#000080">Review of Corporate Finance Studies</span></span></span></strong><span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">,&nbsp;forthcoming,&nbsp;<a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680008">SSRN version</a>, <a href = "../assets/bibliography/elkamhi2023agency.txt">[+ bibtex]</a></span></span></span>
 
-Dynamic capital structure model
+<span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">Dynamic capital structure model</span></span></span>
 
 <details>
 	<summary><span style="font-size:12pt">Abstract </span></summary>
@@ -76,7 +76,7 @@ Dynamic capital structure model
 
 <span style="color:black"><span style="font-size:14.0pt"><span style="font-family:Roboto"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4096443">Subjective Risk-Return Trade-off</a></span></span></span>
 
- with&nbsp;Chen Lin and&nbsp;Yang You
+ <span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">with&nbsp;Chen Lin and&nbsp;Yang You</span></span></span>
  
 <span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">Presentation:&nbsp;Colorado Finance Summit&nbsp;(2022),&nbsp;NUS Risk Management conference (2022), CUHK (2022), Hong Kong Joint Finance Research Workshop (2022)</span></span></span>
 
@@ -106,7 +106,7 @@ Dynamic capital structure model
 
 <span style="font-size:14.0pt"><span style="font-family:Roboto"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4056360">Climate Change and Households&#39; Risk-Taking</a></span></span>
 
-with&nbsp;Zhenyu Gao and&nbsp;Singsen Lam &nbsp; 
+<span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">with&nbsp;Zhenyu Gao and&nbsp;Singsen Lam &nbsp;</span></span></span> 
 
 <span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">Presentation: SIPP Virtual Conference (2023), AFBC (2022), KAFA (2022),&nbsp;CUHK (2022), NTHU Symposium on Sustainable Finance and Economics (2022)</span></span></span>
 
