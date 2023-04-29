@@ -7,13 +7,13 @@ nav: true
 nav_order: 1
 ---
 
-<p><strong><span style="font-size:14.0pt"><span style="font-family:Roboto"><span style="color:black">Publications</span></span></span></strong></p>
+<p><strong><span style="font-size:14.0pt"><span style="color:black">Publications</span></span></strong></p>
 
-<span style="color:black"><span style="font-size:14.0pt"><span style="font-family:Roboto"><a href = "https://www.sciencedirect.com/science/article/pii/S0304405X23000624">Asset holders' Consumption Risk and Tests of Conditional CCAPM</a></span></span></span>
+<span style="color:black"><span style="font-size:14.0pt"><a href = "https://www.sciencedirect.com/science/article/pii/S0304405X23000624">Asset holders' Consumption Risk and Tests of Conditional CCAPM</a></span></span>
 
-<span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">with&nbsp;Redouane Elkamhi</span></span></span>
+<span style="font-size:12.0pt"><span style="color:black">with&nbsp;Redouane Elkamhi</span></span>
 
-<span style="font-size:12.0pt"><span style="font-family:Roboto"><strong><span style="color:#000080">Journal of Financial Economics</span></strong>, forthcoming, <a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3349844">SSRN version</a>, <a href = "../assets/pdf/online_appendix/Elkamhi_Jo_JFE_Internet_Appendix.pdf">Online Appendix</a>, <a href = "../assets/bibliography/elkamhi2023asset.txt">[+ bibtex]</a></span></span>
+<span style="font-size:12.0pt"><span style="font-family:Roboto"><strong><span style="color:#000080">Journal of Financial Economics</span></strong>, 2023, <a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3349844">SSRN version</a>, <a href = "../assets/pdf/online_appendix/Elkamhi_Jo_JFE_Internet_Appendix.pdf">Online Appendix</a>, <a href = "../assets/bibliography/elkamhi2023asset.txt">[+ bibtex]</a></span></span>
 
 <span style="font-size:12.0pt"><span style="font-family:Roboto"><span style="color:black">Empirical asset pricing,&nbsp;asset holders&#39;&nbsp;consumption,&nbsp;conditional tests</span></span></span>
 
