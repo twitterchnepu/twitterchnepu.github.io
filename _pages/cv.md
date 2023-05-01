@@ -10,7 +10,7 @@ nav_order: 3
 
 <p><strong><span style="font-size:14.0pt"><u>Employment</u></span></strong></p>
 
-<p><strong><span style="font-size:12.0pt"><span style="color:black">Chinese University of Hong Kong Business School, Hong Kong</span></strong></span></span></p>
+<p><strong><span style="font-size:12.0pt">Chinese University of Hong Kong Business School, Hong Kong</span></strong></p>
 
 <ul>
 	<li>Assistant Professor of Finance, 2021 - Present</li>
@@ -20,19 +20,19 @@ nav_order: 3
 
 <p><strong><span style="font-size:14.0pt"><u>Education</u></span></strong></p>
 
-<p><strong><span style="font-size:12.0pt"><span style="color:black">University of Toronto, Toronto, Canada</span></strong></span></span></p>
+<p><strong><span style="font-size:12.0pt">University of Toronto, Toronto, Canada</span></strong></p>
 
 <ul>
 	<li><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="background-color:white"><span style="font-family:Roboto"><span style="color:black">Ph.D. in Finance, 2021</span></span></span></span></span></span></li>
 </ul>
 
-<p><strong><span style="font-size:12.0pt"><span style="color:black">Korea Advanced Institute of Science and Technology, Seoul, South Korea</span></strong></span></span></p>
+<p><strong><span style="font-size:12.0pt">Korea Advanced Institute of Science and Technology, Seoul, South Korea</span></strong></p>
 
 <ul>
 	<li><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="background-color:white"><span style="font-family:Roboto"><span style="color:black">M.S. in Management Engineering with specialization in Finance, 2015</span></span></span></span></span></span></li>
 </ul>
 
-<p><strong><span style="font-size:12.0pt"><span style="color:black">Sogang University, Seoul, South Korea</span></strong></span></span></p>
+<p><strong><span style="font-size:12.0pt">Sogang University, Seoul, South Korea</span></strong></p>
 
 
 
