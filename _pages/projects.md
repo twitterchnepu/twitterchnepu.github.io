@@ -24,7 +24,7 @@ nav_order: 1
 
 <p style="margin-left:40px">&nbsp;</p>
 
-<span style="color:black"><span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3669068">A One-Factor Model of Corporate Bond Premia</a></span></span>
+<span style="color:black"><span style="font-size:14.0pt"><a href = "https://doi.org/10.1287/mnsc.2023.4784">A One-Factor Model of Corporate Bond Premia</a></span></span>
 
  <span style="font-size:12.0pt"><span style="color:black">with&nbsp;Redouane Elkamhi and&nbsp;Yoshio Nozawa</span></span>
 
