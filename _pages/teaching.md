@@ -15,9 +15,6 @@ nav_order: 2
     <li>
         <p>Financial Markets (Undergraduate level), 2021 - Present</p>
         <ul>
-            <li>
-                <p>2021/22 evaluations: 5.375 (F section), 4.857 (G section), 5.833 (H section) / &nbsp;Department Undergraduate Avg. 5.103</p>
-            </li>
         </ul>
     </li>
     <li>
