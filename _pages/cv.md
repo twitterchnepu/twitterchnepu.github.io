@@ -76,7 +76,7 @@ nav_order: 3
 
 <p><span style="font-size:12.0pt">"From Nexus of Contracts to Nexus of Institutions: The Determinants of Anglo-American Corporate Governance Migration Into Emerging Economies" by Bruce Hearn, Lars Oxelheim, and Trond Randoy, FMA, Oct 2019</span></p>
 
-<p><span style="font-size:12.0pt">"Modeling VXX under jump diffusion with stochastic long-term mean" by Sebastian A. Gehricke, and Jin E. Zhang, EFMA, June 2019</span></p>
+<p><span style="font-size:12.0pt"><a href = "https://onlinelibrary.wiley.com/doi/abs/10.1002/fut.22145">"Modeling VXX under jump diffusion with stochastic long-term mean"</a> by Sebastian A. Gehricke, and Jin E. Zhang, EFMA, June 2019</span></p>
 
 <p><span style="font-size:12.0pt">"Asset Prices, Wealth Inequality and Background Risk with Durability and Habits" by Georgios Koimisis and Christos Giannikos, FMA, Oct 2018</span></p>
 
