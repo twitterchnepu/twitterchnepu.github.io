@@ -35,9 +35,6 @@ nav_order: 2
         <p>Capital Market Theory (Undergraduate level), 2019</p>
         <ul>
             <li>
-                <p>Evaluations: 4.7 and 4.9 out of 5</p>
-            </li>
-            <li>
                 <p>Rotman School of Management Teaching Excellence Award</p>
             </li>
         </ul>
