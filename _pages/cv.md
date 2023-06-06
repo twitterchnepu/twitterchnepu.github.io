@@ -86,7 +86,7 @@ nav_order: 3
 
 <p><span style="font-size:12.0pt">"Does lottery regressivity decline with jackpot size? Evidence from the world’s largest jackpot prize" by Ki Han, Sukhun Lee, David Suk, and Hyunmo Sung, SWFA, Mar 2018</span></p>
 
-<p><span style="font-size:12.0pt">"Testing Ex-post Implications of Asset Pricing Models using Individual Stocks" by Soohun Kim and Georgios Skoulakis, Auckland Finance Meeting, Dec 2017</span></p>
+<p><span style="font-size:12.0pt"><a href = "https://www.sciencedirect.com/science/article/pii/S0304407618300198">"Testing Ex-post Implications of Asset Pricing Models using Individual Stocks"</a> by Soohun Kim and Georgios Skoulakis, Auckland Finance Meeting, Dec 2017</span></p>
 
 <p><span style="font-size:12.0pt">"The Term Structure of Sovereign CDS, Local Credit Risk, and the Cross-Section Exchange Rate Predictability" by Giovanni Calice and Ming Zeng, AFBC, Dec 2017</span></p>
 
