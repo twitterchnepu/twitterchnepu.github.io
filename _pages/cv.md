@@ -72,6 +72,8 @@ nav_order: 3
 
 <p><span style="font-size:12.0pt">"Shareholder Litigation and Readability in Financial Disclosures: Evidence from a Natural Experiment" by Abhishek Ganguly, Arup Ganguly, Lin Ge, and Chad Zutter, SWFA, Mar 2020</span></p>
 
+<p><span style="font-size:12.0pt">"From Nexus of Contracts to Nexus of Institutions: The Determinants of Anglo-American Corporate Governance Migration Into Emerging Economies" by Bruce Hearn, Lars Oxelheim, and Trond Randoy, FMA, Oct 2019</span></p>
+
 <p><span style="font-size:12.0pt">"Asset Prices, Wealth Inequality and Background Risk with Durability and Habits" by Georgios Koimisis and Christos Giannikos, FMA, Oct 2018</span></p>
 
 <p><span style="font-size:12.0pt">"The Risk of Risk-Sharing: Do financial shocks drive boom-bust cycles?" by Paymon Khorrami, Young Economists Symposium, Aug 2018</span></p>
