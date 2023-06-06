@@ -64,7 +64,7 @@ nav_order: 3
 
 <p><span style="font-size:12.0pt">"Economic Links from Bonds and Cross-Stock Return Predictability" by Jian Feng,  Xiaolin Huo, Xin Liu, Yifei Mao, and Hong Xiang, FMA, Oct 2022</span></p>
 
-<p><span style="font-size:12.0pt">"Does it pay to invest? The personal equity risk premium and stock market participation" by Yulia Merkoulova and Chris Veld, FMA, Oct 2021</span></p>
+<p><span style="font-size:12.0pt"><a href = "https://www.sciencedirect.com/science/article/pii/S0378426621001795">"Does it pay to invest? The personal equity risk premium and stock market participation"</a> by Yulia Merkoulova and Chris Veld, FMA, Oct 2021</span></p>
 
 <p><span style="font-size:12.0pt">"Local Industry Bias in Investor Behavior: Evidence from Mutual Funds" by Suzanne Chang, Eastern FA, Apr 2021</span></p>
 
@@ -88,7 +88,7 @@ nav_order: 3
 
 <p><span style="font-size:12.0pt"><a href = "https://www.sciencedirect.com/science/article/pii/S0304407618300198">"Testing Ex-post Implications of Asset Pricing Models using Individual Stocks"</a> by Soohun Kim and Georgios Skoulakis, Auckland Finance Meeting, Dec 2017</span></p>
 
-<p><span style="font-size:12.0pt">"The Term Structure of Sovereign CDS, Local Credit Risk, and the Cross-Section Exchange Rate Predictability" by Giovanni Calice and Ming Zeng, AFBC, Dec 2017</span></p>
+<p><span style="font-size:12.0pt"><a href = "https://onlinelibrary.wiley.com/doi/10.1002/ijfe.1798">"The Term Structure of Sovereign CDS, Local Credit Risk, and the Cross-Section Exchange Rate Predictability"</a> by Giovanni Calice and Ming Zeng, AFBC, Dec 2017</span></p>
 
 
 
