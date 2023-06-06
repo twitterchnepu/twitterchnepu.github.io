@@ -68,9 +68,13 @@ nav_order: 3
 
 <p><span style="font-size:12.0pt">"Local Industry Bias in Investor Behavior: Evidence from Mutual Funds" by Suzanne Chang, Eastern FA, Apr 2021</span></p>
 
+<p><span style="font-size:12.0pt">"House Price, Household Consumption Behavior, and Consumption Inequality" by Pengpeng Yue, Aslihan Korkmaz, Zhichao Yin, and Haigang Zhou, SFA, Nov 2020</span></p>
+
 <p><span style="font-size:12.0pt">"Shareholder Litigation and Readability in Financial Disclosures: Evidence from a Natural Experiment" by Abhishek Ganguly, Arup Ganguly, Lin Ge, and Chad Zutter, SWFA, Mar 2020</span></p>
 
-<p><span style="font-size:12.0pt">"The Risk of Risk-Sharing: Do financial shocks drive boom-bust cycles?" by Paymon Khorrami, Yes, Aug 2018</span></p>
+<p><span style="font-size:12.0pt">"Asset Prices, Wealth Inequality and Background Risk with Durability and Habits" by Georgios Koimisis and Christos Giannikos, FMA, Oct 2018</span></p>
+
+<p><span style="font-size:12.0pt">"The Risk of Risk-Sharing: Do financial shocks drive boom-bust cycles?" by Paymon Khorrami, Young Economists Symposium, Aug 2018</span></p>
 
 <p><span style="font-size:12.0pt">"Does lottery regressivity decline with jackpot size? Evidence from the world’s largest jackpot prize" by Ki Han, Sukhun Lee, David Suk, and Hyunmo Sung, SWFA, Mar 2018</span></p>
 
