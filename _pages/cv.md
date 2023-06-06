@@ -66,8 +66,9 @@ nav_order: 3
 
 <p><span style="font-size:12.0pt">"Does it pay to invest? The personal equity risk premium and stock market participation" by Yulia Merkoulova and Chris Veld, FMA, Oct 2021</span></p>
 
-<p><span style="font-size:12.0pt">" Local Industry Bias in Investor Behavior: Evidence from Mutual Funds" by Suzanne Chang, Eastern FA, Apr 2021</span></p>
+<p><span style="font-size:12.0pt">"Local Industry Bias in Investor Behavior: Evidence from Mutual Funds" by Suzanne Chang, Eastern FA, Apr 2021</span></p>
 
+<p><span style="font-size:12.0pt">"Does lottery regressivity decline with jackpot size? Evidence from the world’s largest jackpot prize" by Ki Han, Sukhun Lee, David Suk, and Hyunmo Sung, SWFA, Mar 2018</span></p>
 
 
 
