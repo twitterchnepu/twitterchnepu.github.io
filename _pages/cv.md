@@ -82,7 +82,7 @@ nav_order: 3
 
 <p><span style="font-size:12.0pt">"The Risk of Risk-Sharing: Do financial shocks drive boom-bust cycles?" by Paymon Khorrami, Young Economists Symposium, Aug 2018</span></p>
 
-<p><span style="font-size:12.0pt">"Model-Free Utility Curvature" by Alexander p. Kontoghiorghes, TADC, May 2018</span></p>
+<p><span style="font-size:12.0pt">"Model-Free Utility Curvature" by Alexander P. Kontoghiorghes, TADC, May 2018</span></p>
 
 <p><span style="font-size:12.0pt">"Does lottery regressivity decline with jackpot size? Evidence from the world’s largest jackpot prize" by Ki Han, Sukhun Lee, David Suk, and Hyunmo Sung, SWFA, Mar 2018</span></p>
 
