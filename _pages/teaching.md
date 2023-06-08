@@ -14,16 +14,6 @@ nav_order: 2
     </li>
     <li>
         <p>Financial Markets (Undergraduate level), 2021 - Present</p>
-        <ul>
-        </ul>
-    </li>
-    <li>
-        <p>Student Supervision</p>
-        <ul>
-            <li>
-                <p>Singsen Lam (PhD co-supervisor, 2024 expected)</p>
-            </li>
-        </ul>
     </li>
 </ul>
 
