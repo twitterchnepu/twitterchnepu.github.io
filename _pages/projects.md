@@ -39,7 +39,7 @@ nav_order: 1
 
 <p style="margin-left:40px">&nbsp;</p>
 
-<span style="font-size:14.0pt"><span style="color:black"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3695365">Measuring &quot;State-level&quot; Economic Policy Uncertainty</a></span></span>
+<span style="font-size:14.0pt"><span style="color:black"><a href = "https://doi.org/10.1017/S0022109023000807">Measuring &quot;State-level&quot; Economic Policy Uncertainty</a></span></span>
 
 <span style="font-size:12.0pt"><span style="color:black">with&nbsp;Redouane Elkamhi and&nbsp;Marco Salerno</span></span>
 
