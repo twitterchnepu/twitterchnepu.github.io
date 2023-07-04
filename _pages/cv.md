@@ -58,6 +58,10 @@ nav_order: 3
 
 <p><strong><span style="font-size:14.0pt">Discussion</span></strong></p>
 
+<p><span style="font-size:12.0pt">"Dollar and Carry Redux" by  Sining Liu, Thomas Maurer, Andrea Vedolin and Yaoyuan Zhang, CICF, July 2023</span></p>
+
+<p><span style="font-size:12.0pt">"Green Portfolios" by Thomas Fischer and Frederik Lundtofte, CICF, July 2023</span></p>
+
 <p><span style="font-size:12.0pt">"The Sensitivity of Cash Savings to the Cost of Capital" by  Viral V. Acharya, Soku Byoun, and Zhaoxia Xu, KIF-KAEA-KAFA, June 2023</span></p>
 
 <p><span style="font-size:12.0pt">"Digital currencies: Payment choices and commercial bank profitability" by Jaemin Son, Doojin Ryu, and Robert Webb, KAFA-KFMA-KAFE, May 2023</span></p>
