@@ -58,9 +58,11 @@ nav_order: 3
 
 <p><strong><span style="font-size:14.0pt">Discussion</span></strong></p>
 
-<p><span style="font-size:12.0pt">"Revisiting January and turnover effects: recent evidence around the globe" by  Vitor Miguel Ribeiro, CFRI & CIRF Joint Conference, July 2023</span></p>
+<p><span style="font-size:12.0pt">"Asset Pricing with Misallocation" by Winston Wei Dou, Yan Ji, Di Tian, and Pengfei Wang, 9th Hong Kong Joint Finance Research Conference, August 2023</span></p>
 
-<p><span style="font-size:12.0pt">"Dollar and Carry Redux" by  Sining Liu, Thomas Maurer, Andrea Vedolin and Yaoyuan Zhang, CICF, July 2023</span></p>
+<p><span style="font-size:12.0pt">"Revisiting January and turnover effects: recent evidence around the globe" by Vitor Miguel Ribeiro, CFRI & CIRF Joint Conference, July 2023</span></p>
+
+<p><span style="font-size:12.0pt">"Dollar and Carry Redux" by  Sining Liu, Thomas Maurer, Andrea Vedolin, and Yaoyuan Zhang, CICF, July 2023</span></p>
 
 <p><span style="font-size:12.0pt">"Green Portfolios" by Thomas Fischer and Frederik Lundtofte, CICF, July 2023</span></p>
 
