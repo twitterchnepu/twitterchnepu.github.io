@@ -100,7 +100,7 @@ nav_order: 1
 
 <details>
  <summary> <span style="font-size:12pt">Abstract </span> </summary>
-<span style="font-size:12.0pt"><span style="color:black">Exploiting the staggered adoptions of US state-level employment protection laws, we provide novel empirical evidence that adoptions of laws increase the level of stock market participation both on the extensive margin and on the intensive margin. These effects are stronger for young, low-income, low-wealth, and less-educated households. We observe the opposite behaviors when the law is reversed. Overall, our findings imply the significance of employment protection laws in inducing households to take more financial risks, thereby improving wealth accumulation. This is a new channel through which employment protection laws benefit households and the economy.</span></span>
+<span style="font-size:12.0pt"><span style="color:black">By leveraging US state-level employment protection laws, we provide evidence that such laws increase stock market participation, on both intensive and extensive margins. Young, low-income, low-wealth, and less-educated households exhibit stronger effects. Conversely, when the protection law is reversed, we observe contrasting financial risk-taking behaviors. Our findings remain robust across various stock market participation measures, datasets, and stacked difference-in-differences research design, underscoring the significance of employment protection in encouraging households to take financial risks, and potentially enhancing wealth accumulation. This represents a novel avenue through which employment protection can benefit households.</span></span>
 </details> 
 
 <p style="margin-left:40px">&nbsp;</p>
