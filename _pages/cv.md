@@ -60,6 +60,8 @@ nav_order: 3
 
 <p><strong><span style="font-size:14.0pt">Discussion</span></strong></p>
 
+<p><span style="font-size:12.0pt">"Betting on Bond Ratings Disagreement" by Hwagyun Kim, Ju Hyun Kim, Nan Yang, 2023 HK PolyU Fixed Income and Institutions Research Symposium, October 2023</span></p>
+
 <p><span style="font-size:12.0pt">"Labor Market Frictions for Female Workers and Corporate Innovation" by Hyuksoon Lim, Korea-America Finance Association BrownBag Seminar, September 2023</span></p>
 
 <p><span style="font-size:12.0pt">"Asset Pricing with Misallocation" by Winston Wei Dou, Yan Ji, Di Tian, and Pengfei Wang, 9th Hong Kong Joint Finance Research Conference, August 2023</span></p>
