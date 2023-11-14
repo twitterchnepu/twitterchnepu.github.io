@@ -51,7 +51,7 @@ nav_order: 3
   
 <p><span style="font-size:12.0pt">Outstanding Paper Award, Joint Conference with the Allied Korea Finance Associations, 2023</span></p>
 
-<p><span style="font-size:12.0pt">Rotman School of Management Teaching Award, University of Toronto, 2022</span></p>
+<p><span style="font-size:12.0pt">Rotman School of Management Teaching Award, University of Toronto, 2020</span></p>
 
 <p><span style="font-size:12.0pt">Financial News-KAFA Doctoral Student Dissertation Award, 2020</span></p>
 
