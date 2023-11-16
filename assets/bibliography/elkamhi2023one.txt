@@ -1,6 +1,7 @@
 @article{elkamhi2023one,
   title={A one-factor model of corporate bond premia},
   author={Elkamhi, Redouane and Jo, Chanik and Nozawa, Yoshio},
-  journal={Management Science, forthcoming},
-  year={2023}
+  journal={Management Science},
+  year={2023},
+  publisher={INFORMS}
 }
