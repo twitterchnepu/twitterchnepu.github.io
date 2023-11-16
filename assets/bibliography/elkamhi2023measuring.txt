@@ -2,7 +2,7 @@
   title={Measuring “State-level” Economic Policy Uncertainty},
   author={Elkamhi, Redouane and Jo, Chanik and Salerno, Marco},
   journal={Journal of Financial and Quantitative Analysis},
-  pages={1--102},
+  pages={1--37},
   year={2023},
   publisher={Cambridge University Press}
 }
