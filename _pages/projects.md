@@ -43,7 +43,7 @@ nav_order: 1
 
 <span style="font-size:12.0pt"><span style="color:black">with&nbsp;Redouane Elkamhi and&nbsp;Marco Salerno</span></span>
 
-<span style="font-size:12.0pt"><strong><span style="color:#000080">Journal of Financial and Quantitative Analysis</span></strong>, forthcoming, <a href = "https://data.mendeley.com/public-files/datasets/bm3bn4r5d4/files/18f4ba70-0e3f-4b4d-9f79-69ab0dd07c69/file_downloaded">Data</a>, <a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3695365">SSRN version</a>, <a href = "../assets/pdf/online_appendix/Elkamhi_Jo_Salerno_JFQA_Internet_Appendix.pdf">Online Appendix</a>, <a href = "../assets/bibliography/elkamhi2020measuring.txt">[+ bibtex]</a></span>
+<span style="font-size:12.0pt"><strong><span style="color:#000080">Journal of Financial and Quantitative Analysis</span></strong>, forthcoming, <a href = "https://data.mendeley.com/public-files/datasets/bm3bn4r5d4/files/18f4ba70-0e3f-4b4d-9f79-69ab0dd07c69/file_downloaded">Data</a>, <a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3695365">SSRN version</a>, <a href = "../assets/pdf/online_appendix/Elkamhi_Jo_Salerno_JFQA_Internet_Appendix.pdf">Online Appendix</a>, <a href = "../assets/bibliography/elkamhi2023measuring.txt">[+ bibtex]</a></span>
 
 <span style="font-size:12.0pt"><span style="color:black">Economic uncertainty and applications to corporate finance&nbsp;&amp;&nbsp;asset pricing</span></span>
 
