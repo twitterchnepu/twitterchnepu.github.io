@@ -13,7 +13,7 @@ nav_order: 1
 
 <span style="font-size:12.0pt"><span style="color:black">with&nbsp;Redouane Elkamhi</span></span>
 
-<span style="font-size:12.0pt"><strong><span style="color:#000080">Journal of Financial Economics</span></strong>, 2023, <a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3349844">SSRN version</a>, <a href = "../assets/pdf/online_appendix/Elkamhi_Jo_JFE_Internet_Appendix.pdf">Online Appendix</a>, <a href = "../assets/bibliography/elkamhi2023asset.txt">[+ bibtex]</a></span>
+<span style="font-size:12.0pt"><strong><span style="color:#000080">Journal of Financial Economics</span></strong>, 2023, <a href = "https://data.mendeley.com/public-files/datasets/64sr8nwn64/files/4f1a0130-914a-4561-8e9d-42e112b3732a/file_downloaded">Data and code</a>, <a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3349844">SSRN version</a>, <a href = "../assets/pdf/online_appendix/Elkamhi_Jo_JFE_Internet_Appendix.pdf">Online Appendix</a>, <a href = "../assets/bibliography/elkamhi2023asset.txt">[+ bibtex]</a></span>
 
 <span style="font-size:12.0pt"><span style="color:black">Empirical asset pricing,&nbsp;asset holders&#39;&nbsp;consumption,&nbsp;conditional tests</span></span>
 
