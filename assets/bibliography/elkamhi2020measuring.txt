@@ -1,6 +1,8 @@
-@article{elkamhi2020measuring,
-  title={Measuring state-level economic policy uncertainty},
+@article{elkamhi2023measuring,
+  title={Measuring “State-level” Economic Policy Uncertainty},
   author={Elkamhi, Redouane and Jo, Chanik and Salerno, Marco},
-  journal={Journal of Financial and Quantitative Analysis, forthcoming},
-  year={2023}
+  journal={Journal of Financial and Quantitative Analysis},
+  pages={1--102},
+  year={2023},
+  publisher={Cambridge University Press}
 }
