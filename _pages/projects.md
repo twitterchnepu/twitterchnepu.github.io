@@ -93,7 +93,7 @@ nav_order: 1
 
 <span style="color:black"><span style="font-size:14.0pt"><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4163869">Unintended Benefits of Employment Protection Laws: Households&#39; Stock Market Participation</a> </span></span>
 
-<span style="font-size:12.0pt"><span style="color:black">Presentation: UNSW (2023), UYSD (2023), UTS (2023), &nbsp;Labor and Finance (2023), SIPP Virtual Conference (2023),&nbsp;EFA (2020), NFA (2020), MFA (2020), SFA (2020), SWFA (2020), University of Toronto (2020), CUHK (2020)</span></span>
+<span style="font-size:12.0pt"><span style="color:black">Presentation: UNSW (2023), UYSD (2023), UTS (2023), Labor and Finance (2023), SIPP Virtual Conference (2023),&nbsp;EFA (2020), NFA (2020), MFA (2020), SFA (2020), SWFA (2020), University of Toronto (2020), CUHK (2020)</span></span>
 
 <span style="font-size:12.0pt"><span style="color:black">Household finance, stock market participation, and labor finance, <a href = "../assets/pdf/online_appendix/Jo_Internet_Appendix.pdf">Online Appendix</a>, <a href = "../assets/bibliography/jo2023unintended.txt">[+ bibtex]</a></span></span>
 
