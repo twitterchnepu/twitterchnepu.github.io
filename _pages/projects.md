@@ -108,7 +108,7 @@ nav_order: 1
 
 <span style="font-size:12.0pt"><span style="color:black">with&nbsp;Zhenyu Gao and&nbsp;Singsen Lam &nbsp;</span></span> 
 
-<span style="font-size:12.0pt"><span style="color:black">Presentation: KAFA-KFMA-KAFE (2023), SIPP Virtual Conference (2023), AFBC (2022), KAFA (2022),&nbsp;CUHK (2022), NTHU Symposium on Sustainable Finance and Economics (2022)</span></span>
+<span style="font-size:12.0pt"><span style="color:black">Presentation: SGFIN Annual Research Conference on Sustainability (2024), KAFA-KFMA-KAFE (2023), SIPP Virtual Conference (2023), AFBC (2022), KAFA (2022),&nbsp;CUHK (2022), NTHU Symposium on Sustainable Finance and Economics (2022)</span></span>
 
 <span style="font-size:12.0pt"><span style="color:black">Household finance, stock market participation, and&nbsp;climate finance,  <a href = "../assets/bibliography/gao2022climate.txt">[+ bibtex]</a></span></span>
 
