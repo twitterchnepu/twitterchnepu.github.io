@@ -29,7 +29,7 @@ social: false  # includes social icons at the bottom of the page
 
 <ul>
 	<li>
-	<p>Please cite&nbsp;&quot;<a href="https://www.sciencedirect.com/science/article/abs/pii/S1544612323000016" target="_blank">Lee, K., Choi, E., &amp; Kim, M. (2023). Twitter-Based Chinese Economic Policy Uncertainty.&nbsp;Finance Research Letters, 103627</a>&quot;</p>
+	<p>Please cite&nbsp;&quot;<a href="https://www.sciencedirect.com/science/article/abs/pii/S1544612323000016" target="_blank">Lee, K., Choi, E., & Kim, M. (2023). Twitter-based Chinese economic policy uncertainty. Finance Research Letters, 53, 103627.</a>&quot;</p>
 	</li>
 	<li>
 	<p>You assume all risk for the use of the data.</p>
@@ -55,7 +55,7 @@ social: false  # includes social icons at the bottom of the page
 
 <ul>
 	<li>
-	<p>Please cite&nbsp;<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4123659" target="_blank">&quot;Lee&nbsp;and Cho,&nbsp;Measuring Chinese Climate&nbsp;Uncertainty, 2022, Working paper&quot;.</a></p>
+  <p>Please cite&nbsp;&quot;<a href="https://www.sciencedirect.com/science/article/pii/S1059056023002149" target="_blank">Lee, K., & Cho, J. (2023). Measuring Chinese climate uncertainty. International Review of Economics & Finance, 88, 891-901.</a>&quot;</p>
 	</li>
 	<li>
 	<p>You assume all risk for the use of the data.</p>
