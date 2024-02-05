@@ -78,7 +78,7 @@ nav_order: 1
 
  <span style="font-size:12.0pt"><span style="color:black">with&nbsp;Chen Lin and&nbsp;Yang You</span></span>
  
-<span style="font-size:12.0pt"><span style="color:black">Presentation: SNU (2023), Korea University (2023), KAIST (2023), &nbsp;Colorado Finance Summit&nbsp;(2022),&nbsp;NUS Risk Management conference (2022), CUHK (2022), Hong Kong Joint Finance Research Workshop (2022)</span></span>
+<span style="font-size:12.0pt"><span style="color:black">Presentation: MFA (2024, scheduled), SNU (2023), Korea University (2023), KAIST (2023), &nbsp;Colorado Finance Summit&nbsp;(2022),&nbsp;NUS Risk Management conference (2022), CUHK (2022), Hong Kong Joint Finance Research Workshop (2022)</span></span>
 
 <span style="font-size:12.0pt"><span style="color:black">Media coverage:&nbsp;<a href = "https://www.marketwatch.com/story/most-investors-still-dont-understand-the-relationship-between-risk-and-return-study-reveals-11659104629">MarketWatch</a></span></span>
 
