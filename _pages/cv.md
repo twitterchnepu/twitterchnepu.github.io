@@ -47,7 +47,7 @@ nav_order: 3
 
 <p><strong><span style="font-size:14.0pt">Awards</span></strong></p>
 
-<p><span style="font-size:12.0pt">Shinhan Bank & KAFA Best Paper Award , 2023</span></p>
+<p><span style="font-size:12.0pt">Shinhan Bank & KAFA Best Paper Award, 2023</span></p>
   
 <p><span style="font-size:12.0pt">Outstanding Paper Award, Joint Conference with the Allied Korea Finance Associations, 2023</span></p>
 
