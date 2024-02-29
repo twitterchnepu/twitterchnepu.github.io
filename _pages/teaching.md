@@ -12,7 +12,7 @@ nav_order: 2
 <ul style="list-style-type:square">
 	<li>Hankuk University of Foreign Studies, Division of Chinese Foreign Affairs and Commerce, 107, Imun-ro, Dongdaemun-gu, Seoul, Republic of Korea</li>
 	<li>Contact: <u><a href="mailto:liqiring@hufs.ac.kr" style="box-sizing:border-box; color:inherit; pointer-events:all; text-decoration:underline" target="_blank">liqiring@hufs.ac.kr</a></u> </li>
-	<li><u><a href="https://chufs2.hufs.ac.kr/chufs2/m02_s01.do?enc=Zm5jdDF8QEB8JTJGcHJvZmwlMkZjaHVmczIlMkYxODYlMkYzNjA3JTJGYXJ0Y2xWaWV3LmRvJTNGcGFnZSUzRDElMjZzcmNoQ29sdW1uJTNEJTI2c3JjaFdyZCUzRCUyNg%3D%3D" style="box-sizing:border-box; color:inherit; pointer-events:all; text-decoration:underline" target="_blank">Website</a></u>, <u><a href="https://scholar.google.com/citations?user=lWrPMp4AAAAJ&amp;hl=en&amp;oi=sra" style="box-sizing:border-box; color:inherit; pointer-events:all; text-decoration:underline" target="_blank">Google Scholar</a></u></li>
+	<li><u><a href="https://chufs2.hufs.ac.kr/chufs2/m02_s01.do?enc=Zm5jdDF8QEB8JTJGcHJvZmwlMkZjaHVmczIlMkYxODYlMkYzNjA3JTJGYXJ0Y2xWaWV3LmRvJTNGcGFnZSUzRDElMjZzcmNoQ29sdW1uJTNEJTI2c3JjaFdyZCUzRCUyNg%3D%3D" style="box-sizing:border-box; color:inherit; pointer-events:all; text-decoration:underline" target="_blank">Website</a></u>, <u><a href="https://scholar.google.com/citations?user=lWrPMp4AAAAJ&amp;hl=en&amp;oi=sra" style="box-sizing:border-box; color:inherit; pointer-events:all; text-decoration:underline" target="_blank">Google Scholar</a></u></li> 
 </ul>
 
 <p style="text-align:start"><strong>Minki Kim</strong></p>
