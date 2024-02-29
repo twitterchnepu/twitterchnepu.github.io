@@ -10,9 +10,9 @@ nav_order: 2
 
 <p><strong>Kiryoung Lee</strong></p>
 <ul style="list-style-type:square">
-	<li>Cheongju University, 298, Daeseong-ro, Cheongwon-gu, Cheongju-si, Chungcheongbuk-do, Republic of Korea</li>
-	<li>Contact: <u><a href="mailto:liqiring@cju.ac.kr" style="box-sizing:border-box; color:inherit; pointer-events:all; text-decoration:underline" target="_blank">liqiring@cju.ac.kr</a></u> </li>
-	<li><u><a href="https://www.google.com/url?q=https%3A%2F%2Fwww.cju.ac.kr%2Fglobal%2FviewTnHaksaProfessor.do%3FuserId%3D01615%26sc1%3D2000000542%26sa1%3D2000000542%26key%3D6967&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw1aYx38iaFISaPBCOBpS0nG" style="box-sizing:border-box; color:inherit; pointer-events:all; text-decoration:underline" target="_blank">Website</a></u>, <u><a href="https://scholar.google.com/citations?user=lWrPMp4AAAAJ&amp;hl=en&amp;oi=sra" style="box-sizing:border-box; color:inherit; pointer-events:all; text-decoration:underline" target="_blank">Google Scholar</a></u></li>
+	<li>Hankuk University of Foreign Studies, Division of Chinese Foreign Affairs and Commerce, 107, Imun-ro, Dongdaemun-gu, Seoul, Republic of Korea</li>
+	<li>Contact: <u><a href="mailto:liqiring@hufs.ac.kr" style="box-sizing:border-box; color:inherit; pointer-events:all; text-decoration:underline" target="_blank">liqiring@hufs.ac.kr</a></u> </li>
+	<li><u><a href="[https://chufs2.hufs.ac.kr/chufs2/m02_s01.do?enc=Zm5jdDF8QEB8JTJGcHJvZmwlMkZjaHVmczIlMkYxODYlMkYzNjA3JTJGYXJ0Y2xWaWV3LmRvJTNGcGFnZSUzRDElMjZzcmNoQ29sdW1uJTNEJTI2c3JjaFdyZCUzRCUyNg%3D%3D" style="box-sizing:border-box; color:inherit; pointer-events:all; text-decoration:underline" target="_blank">Website</a></u>, <u><a href="https://scholar.google.com/citations?user=lWrPMp4AAAAJ&amp;hl=en&amp;oi=sra" style="box-sizing:border-box; color:inherit; pointer-events:all; text-decoration:underline" target="_blank">Google Scholar</a></u></li>
 </ul>
 
 <p style="text-align:start"><strong>Minki Kim</strong></p>
