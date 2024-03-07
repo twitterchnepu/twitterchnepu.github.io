@@ -60,6 +60,8 @@ nav_order: 3
 
 <p><strong><span style="font-size:14.0pt">Discussion</span></strong></p>
 
+<p><span style="font-size:12.0pt">"Forecasting Option Returns with News" by Jie Cao, Bing Han, Gang Li, Ruijing Yang, and Xintong (Eunice) Zhan, MFA, March 2024</span></p>
+
 <p><span style="font-size:12.0pt">"Stock-Bond Return Dynamics and the Expected Country Stock Returns" by Sungjune Pyun, Young Scholar Seminar at Korean Finance Association, December 2023</span></p>
 
 <p><span style="font-size:12.0pt">"Inflation and the Relative Price Premium" by Yun Joo An, Fotis Grigoris, Christian Heyerdahl-Larsen, and Preetesh Kantak, UNSW Asset Pricing Workshop, October 2023</span></p>
